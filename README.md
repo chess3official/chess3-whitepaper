@@ -103,7 +103,7 @@ Chessalienz: Pawnz is the genesis NFT collection of 5,000 unique hand-designed v
 ### Collection Details
 - **Total Supply**: 5,000 NFTs
 - **Blockchain**: Solana
-- **Mint Price**: 2 SOL
+- **Starting Mint Price**: 3 SOL (reverse auction)
 - **Character Roles**: 21 unique roles
 - **Possible Combinations**: 6.9M+
 - **Ultra-Rare Sets**: 42 matching character combinations
