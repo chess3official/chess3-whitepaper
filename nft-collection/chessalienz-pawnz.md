@@ -45,8 +45,7 @@ Complete matching sets across all layers—only 42 exist!
 Every Chessalienz: Pawnz NFT is:
 - **Hand-designed** by our artist team
 - **Vector-based** for crisp, scalable quality
-- **Unique** with 6.9M+ possible combinations
-- **Thematic** with consistent Chess3 universe styling
+- **Unique** with 6.9M+ possible combinations 
 
 ### Design Philosophy
 - Clean, modern aesthetic
@@ -70,7 +69,8 @@ While the artwork is stunning, Chessalienz: Pawnz NFTs are functional assets tha
 
 ### Mint Information
 - **Date**: TBA
-- **Price**: 2 SOL
+- **Starting Price**: 3 SOL
+- **Price Mechanism**: Reverse auction (decreases 0.03 SOL every 60 seconds with no mint)
 - **Supply**: 5,000 NFTs
 - **Limit**: 10 per wallet
 - **Platform**: Metaplex Candy Machine
@@ -78,7 +78,7 @@ While the artwork is stunning, Chessalienz: Pawnz NFTs are functional assets tha
 ### Fair Launch
 - No pre-sale or whitelist
 - Public mint for all
-- First-come, first-served
+- Reverse auction ensures fair market pricing
 - Equal opportunity for everyone
 
 ## Post-Mint Roadmap

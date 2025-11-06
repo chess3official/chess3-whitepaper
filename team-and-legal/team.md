@@ -18,7 +18,6 @@ Born in '92. Here to build worlds, play games, and HODL. 8+ years as a professio
 - Full-stack developer
 - NFT project experience
 - Chess enthusiast since childhood
-- Solana ecosystem contributor
 
 **Responsibilities**:
 - Platform architecture
@@ -26,9 +25,6 @@ Born in '92. Here to build worlds, play games, and HODL. 8+ years as a professio
 - Frontend development
 - Technical strategy
 - Product vision
-
-**Why Chess3?**  
-*"Chess taught me strategy. Crypto taught me decentralization. Chess3 is where both worlds collide."*
 
 ---
 
@@ -38,11 +34,9 @@ Born in '92. Here to build worlds, play games, and HODL. 8+ years as a professio
 '96. Human karaoke machine and elite snack connoisseur.
 
 **Background**:
-- Professional digital artist
-- NFT collection design
+- Digital artist prodigy
 - Brand development
 - Business strategy
-- Community building
 
 **Responsibilities**:
 - All visual design
@@ -51,52 +45,24 @@ Born in '92. Here to build worlds, play games, and HODL. 8+ years as a professio
 - Marketing strategy
 - Partnership development
 
-**Why Chess3?**  
-*"Every piece tells a story. Every game is art. Chess3 lets us paint with strategy."*
-
 ---
 
-## 🤝 Advisors & Partners
+## 🤝 Looking For
 
-### Technical Advisors
-We're in discussions with experienced Solana developers and chess platform engineers to join as advisors.
+We're actively seeking:
 
-### Chess Consultants
-Working with titled chess players to ensure platform integrity and competitive balance.
-
-### Legal Advisors
-Partnering with blockchain legal experts to ensure compliance and player protection.
-
----
-
-## 🌟 Community Team
-
-### Moderators
-Community-selected moderators help maintain a positive, helpful environment.
+### Advisors & Partners
+- Experienced blockchain advisors
+- Chess industry partners
+- Legal and compliance experts
 
 ### Ambassadors
-Passionate community members who spread the Chess3 message globally.
+- Passionate community ambassadors to spread the Chess3 message globally
 
 ### Content Creators
-Players who create educational content, tutorials, and entertainment.
-
----
-
-## Join the Team
-
-We're always looking for talented individuals who share our vision:
-
-### Open Positions
-- **Community Manager**: Build and engage our growing community
-- **Backend Developer**: Scale our platform infrastructure
-- **Game Designer**: Create innovative chess formats
-- **Marketing Lead**: Grow our brand presence
-
-### How to Apply
-- Join our Discord
-- Demonstrate your skills
-- Contribute to the community
-- Reach out to the team
+- Active content creators in the chess space
+- Educational content producers
+- Tournament streamers and commentators
 
 ---
 
@@ -119,22 +85,6 @@ We're building for the long term, not quick wins.
 
 ---
 
-## Team Allocation
-
-### Token Allocation
-- 20% of $CHESS3 tokens allocated to team
-- 4-year linear vesting
-- 6-month cliff
-- Aligned with long-term success
-
-### NFT Holdings
-- Team holds <5% of genesis collection
-- Purchased at public mint price
-- No pre-mint allocation
-- Same terms as community
-
----
-
 ## Contact the Team
 
 ### General Inquiries
@@ -149,17 +99,6 @@ We're building for the long term, not quick wins.
 ### Press & Media
 - Press kit: [Coming soon]
 - Media contact: press@chess3.io (coming soon)
-
----
-
-## Our Commitment
-
-We're not here for a quick flip. We're building a platform that will serve chess players for years to come. Our team is:
-
-✅ **Fully doxxed** (to partners and advisors)  
-✅ **Long-term committed** (4-year vesting)  
-✅ **Community-focused** (regular AMAs and updates)  
-✅ **Transparent** (open development and communication)  
 
 ---
 

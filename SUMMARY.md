@@ -6,15 +6,11 @@
 
 * [Introduction](overview/introduction.md)
 * [Vision & Mission](overview/vision-and-mission.md)
-* [The Problem](overview/the-problem.md)
-* [The Solution](overview/the-solution.md)
 
 ## NFT Collection
 
 * [Chessalienz: Pawnz](nft-collection/chessalienz-pawnz.md)
 * [Character Roles](nft-collection/character-roles.md)
-* [Holder Benefits](nft-collection/holder-benefits.md)
-* [Trait System](nft-collection/trait-system.md)
 
 ## Platform
 
@@ -25,12 +21,10 @@
 ## Economics
 
 * [Tokenomics](economics/tokenomics.md)
-* [Play-to-Earn](economics/play-to-earn.md)
 
 ## Roadmap
 
 * [Development Phases](roadmap/development-phases.md)
-* [Milestones](roadmap/milestones.md)
 
 ## Team & Legal
 
@@ -40,3 +34,4 @@
 ## Community
 
 * [Links & Resources](community/links-and-resources.md)
+* [How to Mint Guide](community/how-to-mint-guide.md)

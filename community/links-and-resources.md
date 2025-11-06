@@ -76,18 +76,6 @@ New-generation wallet with great UX
 
 ---
 
-## Community Resources
-
-### Fan-Made Content
-- Strategy guides
-- Rarity tools
-- Price trackers
-- Community art
-
-*Note: Always verify authenticity of community resources*
-
----
-
 ## Developer Resources
 
 ### For Builders
