@@ -8,7 +8,10 @@
 
 **Server Name**: Chess3 Official  
 **Server Icon**: LOGOB.png (your Chess3 logo)  
-**Vanity URL**: discord.gg/chess3 (if available)
+**Vanity URL**: discord.gg/chess3 (if available)  
+**Template Link**: https://discord.new/rhFgRPtCzN6u
+
+> 💡 **Quick Start**: Use the template link above to instantly create the server with all channels! Then follow this guide to configure roles, bots, and content.
 
 ---
 

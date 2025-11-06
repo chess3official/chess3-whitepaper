@@ -8,16 +8,26 @@ Discord templates can only include channels and categories. Roles, permissions, 
 
 ## Step 1: Create Server from Template
 
-### Option A: Use This Template Link (After You Create It)
+### 🎯 Use the Official Chess3 Template
 
-1. **Create your Discord server first** with basic structure
-2. **Go to Server Settings** → **Server Template**
-3. **Create Template** and share the link here
-4. Others can use that link to clone your server structure
+**Template Link**: https://discord.new/rhFgRPtCzN6u
 
-### Option B: Manual Quick Setup (15 minutes)
+1. **Click the template link above**
+2. **Sign in to Discord** (if not already)
+3. **Click "Create"** to create your server from the template
+4. **Name your server**: "Chess3 Official" (or your preference)
+5. **Upload server icon**: Use LOGOB.png
 
-Follow the steps below to set up everything quickly.
+✅ **Done!** Your channel structure is now created.
+
+### Next Steps
+
+The template includes all channels and categories, but you still need to:
+- Configure roles and permissions (Step 2-3)
+- Install and configure bots (Step 4-6)
+- Add content to key channels (Step 7)
+
+Follow the steps below to complete the setup (about 10 minutes).
 
 ---
 
