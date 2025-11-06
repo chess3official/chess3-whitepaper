@@ -6,7 +6,7 @@ Our development follows a structured, transparent roadmap with clear milestones 
 
 ---
 
-## 🚀 Phase 1: Genesis Launch (Q1 2025)
+## 🚀 Phase 1: Genesis Launch (Q4 2025)
 
 **Status**: 🔄 In Progress
 
@@ -47,7 +47,7 @@ Establish the Chess3 brand and community foundation
 
 ---
 
-## 🏗️ Phase 2: Platform Development (Q2-Q3 2025)
+## 🏗️ Phase 2: Platform Development (Q1-Q2 2026)
 
 **Status**: ⏳ Upcoming
 
@@ -92,21 +92,28 @@ Build and launch the Chess3 beta platform
 
 ---
 
-## 📈 Phase 3: Ecosystem Expansion (Q4 2025)
+## 📈 Phase 3: Ecosystem Expansion (Q4 2026)
 
 **Status**: ⏳ Planned
 
 ### Objectives
-Introduce tokenomics and expand platform features
+Introduce tokenomics, expand platform features, and launch mobile beta
 
 ### Key Deliverables
 
 💎 **Token Launch**
-- $CHESS3 token deployment
+- $GBTZ (Gambitz) token deployment
 - DEX listings (Raydium, Orca)
 - Liquidity pools
 - Fair launch event
 - Airdrop to NFT holders
+
+💎 **Mobile App Beta**
+- iOS beta launch
+- Android beta launch
+- Cross-platform sync
+- Mobile-optimized UI
+- Push notifications
 
 💎 **Ranked System**
 - Competitive ladder
@@ -138,21 +145,21 @@ Introduce tokenomics and expand platform features
 
 ---
 
-## 📱 Phase 4: Mobile & Expansion (2026)
+## 📱 Phase 4: Global Expansion (2027+)
 
 **Status**: ⏳ Future
 
 ### Objectives
-Expand to mobile and achieve mainstream adoption
+Achieve mainstream adoption and expand globally
 
 ### Key Deliverables
 
-📱 **Mobile App**
-- iOS app launch
-- Android app launch
-- Cross-platform sync
-- Push notifications
-- Mobile-optimized UI
+📱 **Mobile App Full Release**
+- iOS full launch
+- Android full launch
+- App store optimization
+- Mobile tournaments
+- Enhanced mobile features
 
 📱 **Cross-Chain Integration**
 - Ethereum bridge

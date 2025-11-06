@@ -1,10 +1,10 @@
 # Tokenomics
 
-## $CHESS3 Token Overview
+## $GBTZ (Gambitz) Token Overview
 
-The $CHESS3 token is the native utility token of the Chess3 ecosystem, powering all platform activities, governance, and rewards.
+The $GBTZ (Gambitz) token is the native utility token of the Chess3 ecosystem, powering all platform activities, governance, and rewards.
 
-**Launch**: Q4 2025  
+**Launch**: Q4 2026  
 **Blockchain**: Solana (SPL Token)  
 **Total Supply**: TBA (To be announced closer to launch)
 
@@ -74,7 +74,13 @@ The $CHESS3 token is the native utility token of the Chess3 ecosystem, powering 
 - Unlock special traits
 - Enhance visual effects
 
-### 6. Staking Rewards
+### 6. Real-World Merchandise
+- Custom premium chess sets
+- Limited edition collectibles
+- Exclusive branded merchandise
+- Tournament prizes
+
+### 7. Staking Rewards
 - Stake tokens for passive income
 - Stake NFTs for boosted rewards
 - Liquidity provision rewards
@@ -85,9 +91,19 @@ The $CHESS3 token is the native utility token of the Chess3 ecosystem, powering 
 
 ### Play-to-Earn
 **Win Matches**: Earn tokens by winning competitive matches
+- **75/25 Split**: Winner receives 75%, loser receives 25% of match rewards
+- **Daily Limit**: Maximum 10 P2E games per day per NFT (anti-bot measure)
+- **ELO-Based Earnings**: Higher ELO = Higher tier = Higher earnings
 - Casual matches: Small rewards
 - Ranked matches: Moderate rewards
 - Tournament matches: Large rewards
+
+**Tier System**:
+- Bronze (0-1200 ELO): 1x rewards
+- Silver (1200-1600 ELO): 1.5x rewards
+- Gold (1600-2000 ELO): 2x rewards
+- Platinum (2000-2400 ELO): 3x rewards
+- Diamond (2400+ ELO): 5x rewards
 
 **Tournament Prizes**: Compete in tournaments for prize pools
 - Daily tournaments
@@ -197,7 +213,7 @@ The $CHESS3 token is the native utility token of the Chess3 ecosystem, powering 
 ## Governance
 
 ### DAO Structure
-$CHESS3 holders govern the platform through:
+$GBTZ holders govern the platform through:
 
 **Proposal System**:
 - Any holder can propose
@@ -247,6 +263,6 @@ $CHESS3 holders govern the platform through:
 
 ---
 
-**The $CHESS3 token isn't just currency—it's ownership in the future of competitive chess.**
+**The $GBTZ token isn't just currency—it's ownership in the future of competitive chess.**
 
 *Detailed tokenomics will be finalized and announced closer to launch date.*

@@ -134,28 +134,28 @@ Each Chessalienz: Pawnz NFT consists of 7 layers:
 
 ## Platform Features
 
-### Phase 1: Foundation (Q1 2025)
+### Phase 1: Foundation (Q4 2025)
 - Genesis NFT mint (Chessalienz: Pawnz)
 - Community Discord launch
 - Holder verification system
 - Website and social media presence
 
-### Phase 2: Platform Development (Q2-Q3 2025)
+### Phase 2: Platform Development (Q1-Q2 2026)
 - Chess3 beta platform launch
 - P2E tournament system
 - NFT staking mechanism
 - Basic matchmaking system
 - Wallet integration
 
-### Phase 3: Ecosystem Expansion (Q4 2025)
-- Token launch ($CHESS3)
+### Phase 3: Ecosystem Expansion (Q4 2026)
+- Token launch ($GBTZ - Gambitz)
+- Mobile app beta (iOS & Android)
 - Ranked competitive ladder
 - Exclusive holder tournaments
-- Mobile app development begins
 - Partnership announcements
 
-### Phase 4: Future Vision (2026+)
-- Mobile app release
+### Phase 4: Global Expansion (2027+)
+- Mobile app full release
 - Cross-chain integration
 - DAO governance implementation
 - International tournament series
@@ -165,7 +165,7 @@ Each Chessalienz: Pawnz NFT consists of 7 layers:
 
 ## Tokenomics
 
-### $CHESS3 Token (Coming Q4 2025)
+### $GBTZ (Gambitz) Token (Coming Q4 2026)
 
 **Total Supply**: TBA  
 **Blockchain**: Solana (SPL Token)
@@ -183,10 +183,13 @@ Each Chessalienz: Pawnz NFT consists of 7 layers:
 - Governance voting
 - Platform fee payments
 - NFT upgrades and customization
+- Real-world merchandise (custom premium chess sets)
 - Exclusive content access
 
 #### Earning Mechanisms
-- Win matches and tournaments
+- Win matches (75/25 winner/loser split)
+- Maximum 10 P2E games per day per NFT (anti-bot)
+- Higher ELO = Higher tier = Higher earnings
 - Stake NFTs for passive income
 - Participate in community events
 - Refer new players
@@ -200,7 +203,7 @@ Each Chessalienz: Pawnz NFT consists of 7 layers:
 - **Network**: Solana
 - **Smart Contracts**: Rust/Anchor
 - **NFT Standard**: Metaplex
-- **Wallet Support**: Phantom, Solflare, Backpack
+- **Wallet Support**: Phantom, Solflare, Backpack, Magic Eden
 
 ### Platform
 - **Frontend**: React.js, Next.js
