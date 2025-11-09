@@ -20,7 +20,7 @@
 
 Meet the hand-designed vector pawn beings from the CHESS3 dimension. These aren't just digital collectibles—they're your passport to an interstellar chess r3volution.
 
-Each Chessalienz represents a unique character role in the Chess3 universe, from fierce Fighters to mystical Shamans, from cunning Thieves to noble Commanders. Together, they form an army of chess warriors ready to grant Earthlings access to their interstellar P2E chess shenanigans.
+Each Chessalienz represents a unique character role in the Chess3 universe, from fierce Fighters to mystical Shamans, from cunning Thieves to noble Commanders. Together, they form an army of chess warriors ready to grant Earthlings access to interstellar P2E chess shenanigans.
 
 ## Why "Pawnz"?
 
