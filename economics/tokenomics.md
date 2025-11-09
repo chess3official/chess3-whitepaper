@@ -169,25 +169,6 @@ The $GBTZ (Gambitz) token is the native utility token of the Chess3 ecosystem, p
 
 ---
 
-## Vesting Schedule
-
-### Team & Advisors
-- **Cliff**: 6 months
-- **Vesting**: 48 months linear
-- **Purpose**: Long-term alignment
-
-### Development Fund
-- **Release**: Quarterly
-- **Duration**: 5 years
-- **Governance**: DAO oversight
-
-### Marketing
-- **Release**: Monthly
-- **Duration**: 3 years
-- **Transparency**: Public reporting
-
----
-
 ## Token Launch Strategy
 
 ### Phase 1: Fair Launch

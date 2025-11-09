@@ -73,15 +73,40 @@ This comprehensive tutorial will walk you through everything you need to mint yo
 
 ---
 
+### Option C: Magic Eden Wallet
+
+1. **Visit Magic Eden**
+   - Go to https://magiceden.io/wallet
+   - Click "Download"
+
+2. **Install Browser Extension**
+   - Select your browser
+   - Click "Add to [Browser]"
+   - Install the extension
+
+3. **Create Wallet**
+   - Click "Create New Wallet"
+   - Save your recovery phrase securely
+   - Set a password
+   - Complete setup
+
+---
+
 ## Step 2: Fund Your Wallet with SOL
 
 You need SOL (Solana's native cryptocurrency) to mint your NFT and pay for transaction fees.
 
 ### How Much SOL Do I Need?
 
-- **Starting mint price**: 3 SOL
+**For Presale Mint Pass:**
+- **Mint pass price**: 0.5 SOL
 - **Transaction fees**: ~0.01 SOL
-- **Recommended**: Have at least 3.05 SOL in your wallet
+- **Recommended**: Have at least 0.55 SOL in your wallet
+
+**For Public Mint:**
+- **NFT price**: 2 SOL (FREE if you have a mint pass!)
+- **Transaction fees**: ~0.01 SOL
+- **Recommended**: Have at least 2.05 SOL in your wallet (or just 0.01 SOL with mint pass)
 
 ### Where to Buy SOL
 
@@ -163,13 +188,20 @@ You need SOL (Solana's native cryptocurrency) to mint your NFT and pay for trans
 
 ## Step 4: Mint Your Chessalienz: Pawnz
 
-### Understanding the Reverse Auction
+### Understanding the Presale
 
-Chess3 uses a **reverse auction** mechanism:
-- **Starting price**: 3 SOL
-- **Price decreases**: 0.03 SOL every 60 seconds with no mint
-- **Fair pricing**: Market determines the actual value
-- **No FOMO**: Price drops if demand is low
+Chess3 offers a **two-phase mint**:
+
+**Phase 1: Presale Mint Pass**
+- **Price**: 0.5 SOL per mint pass
+- **Supply**: 1,000 mint passes
+- **Benefit**: Mint 1 NFT for FREE during public launch
+- **Savings**: 2 SOL per NFT!
+
+**Phase 2: Public Mint**
+- **Price**: 2 SOL per NFT
+- **Mint pass holders**: FREE (mint pass is burned)
+- **Supply**: 5,000 NFTs total
 
 ### Minting Process
 

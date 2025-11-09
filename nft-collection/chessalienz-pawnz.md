@@ -18,7 +18,7 @@
 
 ## The Story
 
-Meet the hand-designed vector pawn beings from the CHESS3 dimension. These aren't just digital collectibles—they're your passport to an interstellar chess revolution.
+Meet the hand-designed vector pawn beings from the CHESS3 dimension. These aren't just digital collectibles—they're your passport to an interstellar chess r3volution.
 
 Each Chessalienz represents a unique character role in the Chess3 universe, from fierce Fighters to mystical Shamans, from cunning Thieves to noble Commanders. Together, they form an army of chess warriors ready to grant Earthlings access to their interstellar P2E chess shenanigans.
 
@@ -67,19 +67,22 @@ While the artwork is stunning, Chessalienz: Pawnz NFTs are functional assets tha
 
 ## Mint Details
 
-### Mint Information
-- **Date**: TBA
-- **Starting Price**: 3 SOL
-- **Price Mechanism**: Reverse auction (decreases 0.03 SOL every 60 seconds with no mint)
-- **Supply**: 5,000 NFTs
+### Presale Phase
+- **Presale Mint Pass**: 0.5 SOL
+- **Supply**: 1,000 mint passes available
+- **Benefit**: Free NFT mint during public launch (save 2 SOL!)
+- **How it works**: 
+  1. Purchase a PAWNZ mint pass during presale
+  2. Hold the mint pass in your wallet
+  3. When public mint launches, mint pass holders can mint 1 NFT for FREE
+  4. Mint pass is burned upon use
+
+### Public Mint
+- **Date**: TBA (after presale)
+- **Price**: 2 SOL per NFT
+- **Supply**: 5,000 NFTs total (including presale allocations)
 - **Limit**: 10 per wallet
 - **Platform**: Metaplex Candy Machine
-
-### Fair Launch
-- No pre-sale or whitelist
-- Public mint for all
-- Reverse auction ensures fair market pricing
-- Equal opportunity for everyone
 
 ## Post-Mint Roadmap
 
@@ -98,7 +101,7 @@ While the artwork is stunning, Chessalienz: Pawnz NFTs are functional assets tha
 ### Long-Term (Month 3+)
 - Token airdrop to holders
 - Expanded utility features
-- Breeding/evolution mechanics (potential)
+- Breeding/3volution mechanics (potential)
 - Additional collection drops
 
 ## Investment Perspective
@@ -113,4 +116,4 @@ While we can't guarantee returns, Chessalienz: Pawnz holders benefit from:
 
 ---
 
-**Ready to join the CHESS3 dimension? Mint your Chessalienz: Pawnz and become a founding member of the revolution.**
+**Ready to join the CHESS3 dimension? Mint your Chessalienz: Pawnz and become a founding member of the r3volution.**
