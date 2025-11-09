@@ -8,7 +8,7 @@
 
 ## Abstract
 
-Chess3 represents the convergence of the timeless game of chess with blockchain technology, creating an ecosystem where fair play is of utmost importance. Built on Solana, Chess3 introduces a revolutionary play-to-earn chess platform that rewards skill, strategy, and community participation.
+Chess3 is to chess what Web3 is to the internet. Built on Solana, Chess3 introduces a revolutionary play-to-earn chess platform that rewards skill, strategy, and community participation.
 
 The Chessalienz: Pawnz collection serves as the genesis NFT drop, granting holders exclusive access to the Chess3 platform and its growing ecosystem of competitive tournaments, governance rights, and earning opportunities.
 
