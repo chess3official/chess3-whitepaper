@@ -98,12 +98,13 @@ The $GBTZ (Gambitz) token is the native utility token of the Chess3 ecosystem, p
 - Ranked matches: Moderate rewards
 - Tournament matches: Large rewards
 
-**Tier System**:
-- Bronze (0-1200 ELO): 1x rewards
-- Silver (1200-1600 ELO): 1.5x rewards
-- Gold (1600-2000 ELO): 2x rewards
-- Platinum (2000-2400 ELO): 3x rewards
-- Diamond (2400+ ELO): 5x rewards
+**ELO Tiers** (every 300 points):
+- Pawn League (0-299 ELO): 1x rewards
+- Bishop League (300-599 ELO): 1.5x rewards
+- Knight League (600-899 ELO): 2x rewards
+- Rook League (900-1199 ELO): 2.5x rewards
+- Queen League (1200-1499 ELO): 3x rewards
+- King League (1500+ ELO): 5x rewards
 
 **Tournament Prizes**: Compete in tournaments for prize pools
 - Daily tournaments
