@@ -100,16 +100,19 @@ The $GBTZ (Gambitz) token is the native utility token of the Chess3 ecosystem, p
 
 **ELO Tiers** (every 300 points):
 - Pawn I (0-299 ELO): 1x rewards
-- Pawn II (300-599 ELO): 1.25x rewards
-- Pawn III (600-899 ELO): 1.5x rewards
-- Knight I (900-1199 ELO): 1.75x rewards
-- Knight II (1200-1499 ELO): 2x rewards
-- Knight III (1500-1799 ELO): 2.25x rewards
-- Bishop I (1800-2099 ELO): 2.5x rewards
-- Bishop II (2100-2399 ELO): 2.75x rewards
-- Bishop III (2400-2699 ELO): 3x rewards
-- Rook I (2700-2999 ELO): 3.5x rewards
-- King I (3000+ ELO): 5x rewards
+- Pawn II (300-599 ELO): 1.2x rewards
+- Pawn III (600-899 ELO): 1.4x rewards
+- Bishop I (900-1199 ELO): 1.6x rewards
+- Bishop II (1200-1499 ELO): 1.8x rewards
+- Bishop III (1500-1799 ELO): 2x rewards
+- Knight I (1800-2099 ELO): 2.2x rewards
+- Knight II (2100-2399 ELO): 2.4x rewards
+- Knight III (2400-2699 ELO): 2.6x rewards
+- Rook I (2700-2999 ELO): 2.8x rewards
+- Rook II (3000-3299 ELO): 3x rewards
+- Queen I (3300-3599 ELO): 3.5x rewards
+- Queen II (3600-3899 ELO): 4x rewards
+- King I (3900+ ELO): 5x rewards
 
 **Tournament Prizes**: Compete in tournaments for prize pools
 - Daily tournaments
