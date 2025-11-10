@@ -101,7 +101,8 @@ Chessalienz: Pawnz is the genesis NFT collection of 5,000 unique hand-designed v
 ### Collection Details
 - **Total Supply**: 5,000 NFTs
 - **Blockchain**: Solana
-- **Starting Mint Price**: 3 SOL (reverse auction)
+- **Presale Mint Pass**: 2 SOL (limit: 10 passes per transaction)
+- **Public Mint Price**: 3 SOL
 - **Character Roles**: 21 unique roles
 - **Possible Combinations**: 6.9M+
 - **Ultra-Rare Sets**: 42 matching character combinations
@@ -185,7 +186,7 @@ Each Chessalienz: Pawnz NFT consists of 7 layers:
 - Exclusive content access
 
 #### Earning Mechanisms
-- Win matches (75/25 winner/loser split)
+- Get paid per match (75/25 winner/loser split)
 - Maximum 10 P2E games per day per NFT (anti-bot)
 - Higher ELO = Higher tier = Higher earnings
 - Stake NFTs for passive income

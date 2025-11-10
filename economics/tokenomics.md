@@ -90,7 +90,7 @@ The $GBTZ (Gambitz) token is the native utility token of the Chess3 ecosystem, p
 ## Earning Mechanisms
 
 ### Play-to-Earn
-**Win Matches**: Earn tokens by winning competitive matches
+**Get Paid Per Match**: Earn tokens from competitive matches
 - **75/25 Split**: Winner receives 75%, loser receives 25% of match rewards
 - **Daily Limit**: Maximum 10 P2E games per day per NFT (anti-bot measure)
 - **ELO-Based Earnings**: Higher ELO = Higher tier = Higher earnings

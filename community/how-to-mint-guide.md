@@ -99,14 +99,16 @@ You need SOL (Solana's native cryptocurrency) to mint your NFT and pay for trans
 ### How Much SOL Do I Need?
 
 **For Presale Mint Pass:**
-- **Mint pass price**: 0.5 SOL
+- **Mint pass price**: 2 SOL each
 - **Transaction fees**: ~0.01 SOL
-- **Recommended**: Have at least 0.55 SOL in your wallet
+- **Limit**: 10 passes per transaction
+- **Recommended**: Have at least 2.05 SOL per pass (or 20.1 SOL for max 10 passes)
 
 **For Public Mint:**
-- **NFT price**: 2 SOL (FREE if you have a mint pass!)
+- **NFT price**: 3 SOL each
 - **Transaction fees**: ~0.01 SOL
-- **Recommended**: Have at least 2.05 SOL in your wallet (or just 0.01 SOL with mint pass)
+- **Limit**: 10 NFTs per transaction
+- **Recommended**: Have at least 3.05 SOL per NFT (or 30.1 SOL for max 10 NFTs)
 
 ### Where to Buy SOL
 
@@ -193,14 +195,14 @@ You need SOL (Solana's native cryptocurrency) to mint your NFT and pay for trans
 Chess3 offers a **two-phase mint**:
 
 **Phase 1: Presale Mint Pass**
-- **Price**: 0.5 SOL per mint pass
+- **Price**: 2 SOL per mint pass
 - **Supply**: 1,000 mint passes
-- **Benefit**: Mint 1 NFT for FREE during public launch
-- **Savings**: 2 SOL per NFT!
+- **Limit**: 10 passes per transaction
+- **Benefit**: Guaranteed mint access + early supporter status
 
 **Phase 2: Public Mint**
-- **Price**: 2 SOL per NFT
-- **Mint pass holders**: FREE (mint pass is burned)
+- **Price**: 3 SOL per NFT
+- **Limit**: 10 NFTs per transaction
 - **Supply**: 5,000 NFTs total
 
 ### Minting Process

@@ -10,11 +10,12 @@
 |-----------|---------|
 | **Total Supply** | 5,000 NFTs |
 | **Blockchain** | Solana |
-| **Mint Price** | 2 SOL |
+| **Presale Mint Pass** | 2 SOL |
+| **Public Mint Price** | 3 SOL |
 | **Character Roles** | 21 unique roles |
 | **Possible Combinations** | 6.9M+ |
 | **Ultra-Rare Sets** | 42 matching character combinations |
-| **Max Per Wallet** | 10 NFTs |
+| **Max Per Transaction** | 10 passes/NFTs |
 
 ## The Story
 
@@ -68,20 +69,21 @@ While the artwork is stunning, Chessalienz: Pawnz NFTs are functional assets tha
 ## Mint Details
 
 ### Presale Phase
-- **Presale Mint Pass**: 0.5 SOL
+- **Presale Mint Pass**: 2 SOL
 - **Supply**: 1,000 mint passes available
-- **Benefit**: Free NFT mint during public launch (save 2 SOL!)
+- **Limit**: 10 passes per transaction
+- **Benefit**: Guaranteed mint access + early supporter status
 - **How it works**: 
-  1. Purchase a PAWNZ mint pass during presale
-  2. Hold the mint pass in your wallet
-  3. When public mint launches, mint pass holders can mint 1 NFT for FREE
+  1. Purchase PAWNZ mint passes during presale (2 SOL each)
+  2. Hold mint passes in your wallet
+  3. When public mint launches, use passes to mint NFTs
   4. Mint pass is burned upon use
 
 ### Public Mint
 - **Date**: TBA (after presale)
-- **Price**: 2 SOL per NFT
+- **Price**: 3 SOL per NFT
 - **Supply**: 5,000 NFTs total (including presale allocations)
-- **Limit**: 10 per wallet
+- **Limit**: 10 per transaction
 - **Platform**: Metaplex Candy Machine
 
 ## Post-Mint Roadmap
