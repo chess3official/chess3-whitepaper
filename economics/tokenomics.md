@@ -108,8 +108,8 @@ The $GBTZ (Gambitz) token is the native utility token of the Chess3 ecosystem, p
 - Bishop I (1800-2099 ELO): 2.5x rewards
 - Bishop II (2100-2399 ELO): 2.75x rewards
 - Bishop III (2400-2699 ELO): 3x rewards
-- Rook I (2700-2999 ELO): 4x rewards
-- Rook II (3000+ ELO): 5x rewards
+- Rook I (2700-2999 ELO): 3.5x rewards
+- King I (3000+ ELO): 5x rewards
 
 **Tournament Prizes**: Compete in tournaments for prize pools
 - Daily tournaments
