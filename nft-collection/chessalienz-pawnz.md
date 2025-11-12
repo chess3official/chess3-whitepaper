@@ -29,17 +29,33 @@ In chess, pawns are often underestimated—yet they're the foundation of every s
 
 ## Rarity System
 
-### Common Traits (60%)
-Standard combinations of backgrounds, colors, and roles
+The Chessalienz: Pawnz collection features a sophisticated 4-tier rarity system:
 
-### Uncommon Traits (25%)
-Specific color and role combinations
+### Ultra Rare (0.84% - 42 NFTs)
+- **All matching ultra traits** across body, head, ring, and base
+- **Exclusive hollow backgrounds** (Hollowblack or Hollowwhite)
+- **Foil overlay effect** for maximum visual impact
+- **Only 1 per character per color** - the rarest of the rare!
+- 21 with Hollowblack background + White color
+- 21 with Hollowwhite background + Black color
 
-### Rare Traits (12%)
-Matching body, head, ring, and base roles
+### Super Rare (1.68% - 84 NFTs)
+- **All matching regular traits** across body, head, ring, and base
+- **Exclusive shiny backgrounds** (Shinyblack or Shinywhite)
+- **2 per character per color** - extremely limited!
+- 42 with Shinyblack background + White color
+- 42 with Shinywhite background + Black color
 
-### Ultra-Rare Sets (3%)
-Complete matching sets across all layers—only 42 exist!
+### Rare (5% - 250 NFTs)
+- **At least 1 ultra trait** mixed with regular traits
+- Standard backgrounds
+- Unique combinations with premium traits
+
+### Common & Uncommon (92.48% - 4,624 NFTs)
+- **Uncommon**: Matching regular traits (all 4 layers same character)
+- **Common**: Random trait combinations
+- Standard backgrounds and colors
+- Wide variety of character combinations
 
 ## Artwork & Design
 
