@@ -1,6 +1,6 @@
 # Chess3 Whitepaper
 
-## The Next 3volution of Competitive Chess
+## The Next 3volution of Online Chess
 
 **Version 1.0 | November 2025**
 
