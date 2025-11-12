@@ -13,7 +13,7 @@
 | **Presale Mint Pass** | 2 SOL |
 | **Public Mint Price** | 3 SOL |
 | **Character Roles** | 21 unique roles |
-| **Possible Combinations** | 6.9M+ |
+| **Possible Combinations** | 112M+ |
 | **Ultra-Rare Sets** | 42 matching character combinations |
 | **Max Per Transaction** | 10 passes/NFTs |
 
@@ -56,19 +56,6 @@ The Chessalienz: Pawnz collection features a sophisticated 4-tier rarity system:
 - **Common**: Random trait combinations
 - Standard backgrounds and colors
 - Wide variety of character combinations
-
-## Artwork & Design
-
-Every Chessalienz: Pawnz NFT is:
-- **Hand-designed** by our artist team
-- **Vector-based** for crisp, scalable quality
-- **Unique** with 6.9M+ possible combinations 
-
-### Design Philosophy
-- Clean, modern aesthetic
-- Bold colors and sharp lines
-- Character-driven storytelling
-- Collectible appeal
 
 ## Utility Beyond Art
 
