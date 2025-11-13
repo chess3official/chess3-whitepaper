@@ -8,7 +8,7 @@
 
 ## Abstract
 
-Chess3 is to chess what Web3 is to the internet. Built on Solana, Chess3 introduces a revolutionary play-to-earn chess platform that rewards skill, strategy, and community participation.
+Chess3 is to chess what Web3 is to the internet. Built on Solana, Chess3 introduces a revolutionary play-to-earn chess platform that rewards gameplay, strategy, and community participation. While skill is rewarded, every player can earn through active participation.
 
 The Chessalienz: Pawnz collection serves as the genesis NFT drop, granting holders exclusive access to the Chess3 platform and its growing ecosystem of competitive tournaments, governance rights, and earning opportunities.
 
@@ -32,22 +32,22 @@ The Chessalienz: Pawnz collection serves as the genesis NFT drop, granting holde
 
 ## Introduction
 
-600 million chess players worldwide. Only a handful earn from their skill.
+600 million chess players worldwide. Only a handful earn from playing.
 
-Chess3 changes that. Blockchain-powered competitive chess where every player can earn, own, and compete on equal terms.
+Chess3 changes that. Blockchain-powered competitive chess where every player can earn through gameplay, own their achievements, and compete on equal terms. Skill is rewarded, but participation is what counts.
 
 ---
 
 ## Vision & Mission
 
 ### Vision
-The leading decentralized chess platform where skill equals earnings.
+The leading decentralized chess platform where gameplay equals earnings, and skill is rewarded.
 
 ### Mission
-- Democratize chess earnings
-- Transparent, verifiable gameplay
+- Democratize chess earnings through gameplay
+- Transparent, verifiable on-chain matches
 - Community-driven platform
-- Reward skill and strategy
+- Reward participation and skill
 - Preserve chess integrity through innovation
 
 ---
@@ -56,11 +56,12 @@ The leading decentralized chess platform where skill equals earnings.
 
 ### Current Chess Ecosystem Challenges
 
-1. **Limited Monetization**: Only top-tier players can earn from chess
+1. **Limited Monetization**: Only top-tier players can earn from playing
 2. **Centralized Control**: Major platforms control all aspects of competitive play
 3. **No Ownership**: Players don't own their accounts, achievements, or in-game assets
 4. **High Barriers**: Tournament entry fees without guaranteed returns
 5. **Lack of Transparency**: Opaque ranking and reward systems
+6. **No Gameplay Rewards**: Casual players get nothing for their time and effort
 
 ---
 
@@ -74,10 +75,12 @@ Solana-powered chess platform that fixes everything:
 - Community-governed tournament structures
 
 ### Play-to-Earn Mechanics
-- Earn rewards for winning matches
-- Stake tokens on your performance
-- Participate in prize pool tournaments
-- Receive airdrops and special rewards as an NFT holder
+- **Earn from gameplay**: Both winners and losers earn (75/25 split)
+- **Skill multiplier**: Higher ELO = Higher tier = Bigger rewards
+- **Daily limits**: Max 10 P2E games per day per NFT (anti-bot)
+- **Stake tokens** on your performance
+- **Tournament prizes**: Participate in prize pool tournaments
+- **NFT holder bonuses**: Airdrops and special rewards
 
 ### True Ownership
 - Own your Chess3 identity through NFTs
@@ -104,7 +107,7 @@ Chessalienz: Pawnz is the genesis NFT collection of 5,000 unique hand-designed v
 - **Presale Mint Pass**: 2 SOL (limit: 10 passes per transaction)
 - **Public Mint Price**: 3 SOL
 - **Character Roles**: 21 unique roles
-- **Possible Combinations**: 6.9M+
+- **Possible Outcomes**: 6.9M+
 - **Ultra-Rare Sets**: 42 matching character combinations
 
 ### 21 Character Roles
@@ -120,14 +123,17 @@ Fighter • Police • Monk • Hitman • Ronin • Medic • Sailor • Thief 
 7. **Reduced Fees**: Lower platform fees for all transactions
 
 ### Trait System
-Each Chessalienz: Pawnz NFT consists of 7 layers:
-- Background (18 colors)
-- Color (White/Black)
-- Body (21 roles)
-- Head (21 roles)
-- Ring (21 roles)
-- Base (21 roles)
-- Outline
+Each Chessalienz: Pawnz NFT consists of **8 layers**:
+1. **Background** (18 colors + 4 special: Hollowblack, Hollowwhite, Shinyblack, Shinywhite)
+2. **Color** (White/Black)
+3. **Body** (21 character roles)
+4. **Head** (21 character roles)
+5. **Ring** (21 character roles)
+6. **Base** (21 character roles)
+7. **Outline**
+8. **Foil** (Ultra trait overlay effect)
+
+With 8 layers and multiple traits per layer, there are **6.9M+ possible outcomes**!
 
 ---
 
@@ -186,13 +192,15 @@ Each Chessalienz: Pawnz NFT consists of 7 layers:
 - Exclusive content access
 
 #### Earning Mechanisms
-- Get paid per match (75/25 winner/loser split)
-- Maximum 10 P2E games per day per NFT (anti-bot)
-- Higher ELO = Higher tier = Higher earnings
-- Stake NFTs for passive income
-- Participate in community events
-- Refer new players
-- Create and host tournaments
+- **Play to earn**: Get paid per match (75/25 winner/loser split)
+- **Daily limit**: Maximum 10 P2E games per day per NFT (anti-bot protection)
+- **Skill multiplier**: Higher ELO = Higher tier = Higher earnings
+- **Passive income**: Stake NFTs for rewards
+- **Community events**: Earn through participation
+- **Referrals**: Earn by bringing new players
+- **Tournament hosting**: Create and host for rewards
+
+*Note: Earnings come from gameplay participation. Skill increases your rewards, but everyone who plays earns.*
 
 ---
 
@@ -223,11 +231,15 @@ Each Chessalienz: Pawnz NFT consists of 7 layers:
 
 ### badt0shi
 **Development & Design**  
-Born in '92. Here to build worlds, play games, and HODL. 8+ years as a professional crypto bro with experience in blockchain development and NFT projects.
+Born in '92. Here to build worlds, play games, and HODL. 8+ years as a crypto bro with experience in blockchain development and NFT projects.
+
+**Twitter**: [@badt0shi](https://x.com/badt0shi)
 
 ### broccoly
 **Graphics and Business Development**  
 '96. Human karaoke machine and elite snack connoisseur. Handles all visual design and business strategy for Chess3.
+
+**Twitter**: [@itsbroccoly](https://x.com/itsbroccoly)
 
 ---
 
@@ -256,7 +268,8 @@ All Chess3 branding, artwork, and platform code are proprietary to the Chess3 te
 - **Website**: https://chessalienz.vercel.app
 - **Twitter**: https://x.com/CHESSALIENZ
 - **Discord**: [Coming Soon]
-- **GitHub**: [Coming Soon]
+- **GitHub**: [@chess3official](https://github.com/chess3official)
+- **GitBook**: https://chess3-1.gitbook.io/chess3/
 
 ---
 

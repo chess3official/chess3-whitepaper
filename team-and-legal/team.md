@@ -11,7 +11,9 @@ Chess3 is built by a passionate team of chess enthusiasts, blockchain developers
 ### badt0shi
 **Development & Design**
 
-Born in '92. Here to build worlds, play games, and HODL. 8+ years as a professional crypto bro.
+Born in '92. Here to build worlds, play games, and HODL. 8+ years as a crypto bro.
+
+**Twitter**: [@badt0shi](https://x.com/badt0shi)
 
 **Background**:
 - 8+ years in cryptocurrency and blockchain
@@ -33,9 +35,11 @@ Born in '92. Here to build worlds, play games, and HODL. 8+ years as a professio
 
 '96. Human karaoke machine and elite snack connoisseur.
 
+**Twitter**: [@itsbroccoly](https://x.com/itsbroccoly)
+
 **Background**:
-- Digital artist prodigy
-- Brand development
+- Digital artist and designer
+- Brand development specialist
 - Business strategy
 
 **Responsibilities**:

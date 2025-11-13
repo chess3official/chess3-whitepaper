@@ -13,7 +13,7 @@
 | **Presale Mint Pass** | 2 SOL |
 | **Public Mint Price** | 3 SOL |
 | **Character Roles** | 21 unique roles |
-| **Possible Combinations** | 112M+ |
+| **Possible Outcomes** | 6.9M+ |
 | **Ultra-Rare Sets** | 42 matching character combinations |
 | **Max Per Transaction** | 10 passes/NFTs |
 
@@ -31,10 +31,23 @@ In chess, pawns are often underestimated—yet they're the foundation of every s
 
 The Chessalienz: Pawnz collection features a sophisticated 4-tier rarity system:
 
+### Trait System
+Each Chessalienz: Pawnz NFT consists of **8 layers**:
+1. **Background** (18 colors + 4 special: Hollowblack, Hollowwhite, Shinyblack, Shinywhite)
+2. **Color** (White/Black)
+3. **Body** (21 character roles)
+4. **Head** (21 character roles)
+5. **Ring** (21 character roles)
+6. **Base** (21 character roles)
+7. **Outline**
+8. **Foil** (Ultra trait overlay effect)
+
+With 8 layers and multiple traits per layer, there are **6.9M+ possible outcomes**!
+
 ### Ultra Rare (0.84% - 42 NFTs)
 - **All matching ultra traits** across body, head, ring, and base
 - **Exclusive hollow backgrounds** (Hollowblack or Hollowwhite)
-- **Foil overlay effect** for maximum visual impact
+- **Foil layer activated** for maximum visual impact
 - **Only 1 per character per color** - the rarest of the rare!
 - 21 with Hollowblack background + White color
 - 21 with Hollowwhite background + Black color

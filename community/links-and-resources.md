@@ -15,8 +15,8 @@ Join our community, chat with the team, and connect with fellow chess enthusiast
 
 ### 📚 Documentation
 **Whitepaper**: You're reading it!  
-**GitBook**: [Coming Soon]  
-**GitHub**: [Coming Soon]
+**GitBook**: https://chess3-1.gitbook.io/chess3/  
+**GitHub**: [@chess3official](https://github.com/chess3official)
 
 ---
 
