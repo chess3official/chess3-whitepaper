@@ -32,7 +32,7 @@ The Chessalienz: Pawnz collection serves as the genesis NFT drop, granting holde
 
 ## Introduction
 
-600 million chess players worldwide. Only a handful earn from playing.
+100 million active online chess players worldwide. Only a handful earn from playing.
 
 Chess3 changes that. Blockchain-powered competitive chess where every player can earn through gameplay, own their achievements, and compete on equal terms. Skill is rewarded, but participation is what counts.
 

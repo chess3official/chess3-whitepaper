@@ -2,7 +2,7 @@
 
 ## Chess3: Where Gameplay Equals Earnings
 
-**600 million chess players worldwide. Only a handful earn from playing.**
+**100 million active online chess players worldwide. Only a handful earn from playing.**
 
 Chess3 changes that.
 
