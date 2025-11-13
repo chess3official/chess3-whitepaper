@@ -107,7 +107,7 @@ Chessalienz: Pawnz is the genesis NFT collection of 5,000 unique hand-designed v
 - **Presale Mint Pass**: 2 SOL (limit: 10 passes per transaction)
 - **Public Mint Price**: 3 SOL
 - **Character Roles**: 21 unique roles
-- **Possible Outcomes**: 6.9M+
+- **Possible Outcomes**: 112M+
 - **Ultra-Rare Sets**: 42 matching character combinations
 
 ### 21 Character Roles
@@ -133,7 +133,7 @@ Each Chessalienz: Pawnz NFT consists of **8 layers**:
 7. **Outline**
 8. **Foil** (Ultra trait overlay effect)
 
-With 8 layers and multiple traits per layer, there are **6.9M+ possible outcomes**!
+With 8 layers and multiple traits per layer, there are **112M+ possible outcomes**!
 
 ---
 

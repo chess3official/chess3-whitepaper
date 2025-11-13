@@ -13,7 +13,7 @@
 | **Presale Mint Pass** | 2 SOL |
 | **Public Mint Price** | 3 SOL |
 | **Character Roles** | 21 unique roles |
-| **Possible Outcomes** | 6.9M+ |
+| **Possible Outcomes** | 112M+ |
 | **Ultra-Rare Sets** | 42 matching character combinations |
 | **Max Per Transaction** | 10 passes/NFTs |
 
@@ -42,7 +42,7 @@ Each Chessalienz: Pawnz NFT consists of **8 layers**:
 7. **Outline**
 8. **Foil** (Ultra trait overlay effect)
 
-With 8 layers and multiple traits per layer, there are **6.9M+ possible outcomes**!
+With 8 layers and multiple traits per layer, there are **112M+ possible outcomes**!
 
 ### Ultra Rare (0.84% - 42 NFTs)
 - **All matching ultra traits** across body, head, ring, and base
