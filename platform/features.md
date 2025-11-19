@@ -1,16 +1,16 @@
 # Platform Features
 
-## Coming Soon
+Chess3 is built as a competitive, on-chain chess platform with real stakes and fair play at the core.
 
-Detailed platform features will be announced as development progresses.
+Key features include:
 
-**Status**: TBA (To Be Announced)
+- **Daily Ranked Play Limits**  
+  Play up to **10 ranked matches per day for each NFT you own**, capping total emissions while still rewarding active players.
 
-Stay tuned for updates on:
-- Core gameplay features
-- Tournament systems
-- Matchmaking mechanics
-- User interface details
-- And much more...
+- **Staking on Performance (USD-Backed)**  
+  Stake value on your **own performance** or on the outcome of **other live games**, enabling skill-based wagering and spectator markets around competitive play.
 
-Follow our social channels for the latest announcements!
+- **Fair Matchmaking & ELO System**  
+  Transparent rating and matchmaking logic that pairs players of similar strength, reduces smurfing, and keeps ranked rewards aligned with actual skill.
+
+Additional features (tournaments, social tools, and more) will be detailed as the platform moves through public betas and launch phases.
