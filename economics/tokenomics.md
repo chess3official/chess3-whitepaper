@@ -1,5 +1,8 @@
 # Tokenomics
 
+> **TL;DR**  
+> Chess3 launches a fixed-supply token ($GBTZ) where **100% of tokens start in a DEX liquidity pool** with **$300k of liquidity**. The project then uses **another $300k to buy ~33% of the supply** from the market and locks those **333M $GBTZ** as the **reward pool for players**. Payouts per match are capped, matches per NFT are capped, and a **50% platform rake is used for ongoing buybacks**, making rewards generous for players while keeping the system sustainable long-term.
+
 ## $GBTZ (Gambitz) Token Overview
 
 The $GBTZ (Gambitz) token is the native utility token of the Chess3 ecosystem, powering all platform activities, governance, and rewards.
@@ -211,49 +214,54 @@ Players earn **real money every single game**, even when they lose, while the to
 
 ### Deflationary Mechanisms
 
-**Platform Fee Burns**: 
-- 50% of platform fees burned
-- Reduces circulating supply
-- Increases scarcity over time
+**Buyback & Burn from Platform Fees**: 
+- A fixed share of platform fees (target: 50%) is used to **buy back $GBTZ on the open market**.  
+- Bought-back tokens can be **burned** or **recycled into reward/staking pools** based on DAO decisions.  
+- This continuously reduces effective circulating supply and supports long-term price stability.
 
-**Tournament Burns**:
-- Portion of entry fees burned
-- Larger tournaments = larger burns
-- Community-voted burn events
+**Tournament & Event Burns**:
+- Portion of premium tournament entry fees and special events allocated to buyback-and-burn.  
+- High-profile events = larger discretionary burns.  
+- Community can vote on major burn events via governance.
 
 ### Inflationary Controls
 
-**Emission Schedule**:
-- Decreasing rewards over time
-- Halving events every 2 years
-- Maximum supply cap
+**Fixed Supply**:
+- Total supply is hard-capped at **1,000,000,000 $GBTZ**.  
+- No additional tokens can be minted once launched.
 
-**Reward Balancing**:
-- Dynamic reward adjustments
-- Based on platform activity
-- Maintains sustainable economy
+**Capped Match Output**:
+- Maximum **10 ranked P2E matches per NFT per day**.  
+- Hard cap of **50,000 matches/day** with 5,000 NFTs.  
+- Keeps maximum daily token outflow from the reward pool strictly bounded.
+
+**Dynamic Reward Tuning**:
+- Match payouts (pot size) can be adjusted via governance based on:  
+  - Player counts,  
+  - Market price of $GBTZ,  
+  - Size of remaining reward pool.  
+- Ensures the economy remains sustainable while still attractive for new players.
 
 ---
 
 ## Token Launch Strategy
 
 ### Phase 1: Fair Launch
-- Public sale (no VC pre-sale)
-- Equal opportunity for all
-- Anti-bot measures
-- Transparent allocation
+- **No VC pre-sale, no team allocation** – all tokens begin in the public DEX liquidity pool.  
+- $300k of liquidity is added to the pool at launch.  
+- A separate $300k buy order acquires ~33% of supply for the reward pool.  
+- Anti-bot measures on the platform side (match limits, anti-cheat, NFT gating).
 
 ### Phase 2: Liquidity
-- DEX listing (Raydium, Orca)
-- Liquidity incentives
-- Trading competitions
-- Market stability
+- Primary listing on DEXs (e.g. Raydium, Orca).  
+- LP incentives for community-provided liquidity.  
+- Transparent on-chain price discovery via the initial liquidity pool.  
+- Optional trading competitions to bootstrap volume.
 
 ### Phase 3: Expansion
-- CEX listings (target: major exchanges)
-- Cross-chain bridges
-- Institutional partnerships
-- Mainstream adoption
+- Potential CEX listings (target: major exchanges).  
+- Cross-chain bridges for broader access.  
+- Strategic partnerships and integrations to bring new players into the Chess3 ecosystem.
 
 ---
 
@@ -292,10 +300,10 @@ $GBTZ holders govern the platform through:
 - Burn mechanisms
 
 ### Economic Sustainability
-- Conservative emission rates
-- Multiple revenue streams
-- Long-term value accrual
-- Community-first approach
+-- No uncontrolled emissions – fixed supply, capped match rewards
+-- Multiple revenue streams (fees, tournaments, staking/betting)
+-- Buyback-and-burn mechanisms to support long-term value
+-- Community-first approach with transparent on-chain data and DAO oversight
 
 ---
 
