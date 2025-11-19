@@ -8,9 +8,9 @@
 
 ## Abstract
 
-Chess3 is to chess what Web3 is to the internet. Built on Solana, Chess3 introduces a revolutionary play-to-earn chess platform that rewards gameplay, strategy, and community participation. While skill is rewarded, every player can earn through active participation.
+Chess3 is to chess what Web3 is to the internet. Built on Solana, it introduces a play-to-earn chess platform where players can earn from gameplay, own their progress, and participate in a community-governed ecosystem.
 
-The Chessalienz: Pawnz collection serves as the genesis NFT drop, granting holders exclusive access to the Chess3 platform and its growing ecosystem of competitive tournaments, governance rights, and earning opportunities.
+The Chessalienz: Pawnz collection is the genesis NFT drop that unlocks early access, tournaments, governance, and future rewards across the Chess3 platform.
 
 ---
 
@@ -32,9 +32,9 @@ The Chessalienz: Pawnz collection serves as the genesis NFT drop, granting holde
 
 ## Introduction
 
-100 million active online chess players worldwide. Only a handful earn from playing.
+There are over 100 million active online chess players worldwide, but only a small fraction ever earn from playing.
 
-Chess3 changes that. Blockchain-powered competitive chess where every player can earn through gameplay, own their achievements, and compete on equal terms. Skill is rewarded, but participation is what counts.
+Chess3 changes this by turning competitive chess into an open, on-chain economy. Players earn through gameplay, keep ownership of their identities and assets, and compete under transparent rules instead of centralized gatekeepers.
 
 ---
 
