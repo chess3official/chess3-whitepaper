@@ -2,9 +2,9 @@
 
 ## Our Vision
 
-**The leading decentralized chess platform where skill equals earnings.**
+**The leading decentralized chess platform where more skill equals more earnings.**
 
-More skill equals more earnings. You own everything. Community-governed.
+Every player earns. You own everything. Community-governed.
 
 ## Our Mission
 
