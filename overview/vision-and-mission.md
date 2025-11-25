@@ -4,7 +4,7 @@
 
 **The leading decentralized chess platform where skill equals earnings.**
 
-Every player earns. Fair play guaranteed. You own everything. Community-governed.
+More skill equals more earnings. You own everything. Community-governed.
 
 ## Our Mission
 
