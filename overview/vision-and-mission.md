@@ -2,13 +2,13 @@
 
 ## Our Vision
 
-**The leading decentralized chess platform where more skill equals more earnings.**
+**The leading decentralized chess platform where more skill equals more rewards.**
 
-Every player earns. You own everything. Community-governed.
+Every player profits. You own everything. Community-governed.
 
 ## Our Mission
 
-Chess meets blockchain. Fair play meets earnings.
+Chess meets blockchain. Fair play meets real income.
 
 ### Core Principles
 
@@ -18,16 +18,16 @@ Chess meets blockchain. Fair play meets earnings.
 - Community moderation
 - Verified identities
 
-**2. Democratize Earnings**
+**2. Democratize Income**
 - Play-to-earn for all
 - Real tournament prizes
 - NFT staking rewards
-- Multiple income streams
+- Multiple revenue streams
 
 **3. True Ownership**
 - NFT identities
 - Tradeable assets
-- Your earnings, your control
+- Your funds, your control
 - Portable achievements
 
 **4. Community Governance**
