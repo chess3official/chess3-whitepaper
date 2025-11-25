@@ -9,7 +9,7 @@ The $GBTZ (Gambitz) token is the native utility token of the Chess3 ecosystem, p
 
 **Launch**: Q4 2026  
 **Blockchain**: Solana (SPL Token)  
-**Total Supply**: TBA (To be announced closer to launch)
+**Total Supply**: 1,000,000,000 $GBTZ (1 billion tokens)
 
 ---
 
