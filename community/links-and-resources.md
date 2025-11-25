@@ -3,12 +3,15 @@
 ## Official Channels
 
 ### 🌐 Website
-**Main Site**: https://chessalienz.vercel.app  
+**Main Site**: [https://chessalienz.vercel.app](https://chessalienz.vercel.app)  
 Your hub for all things Chess3—mint NFTs, learn about the project, and join the community.
 
 ### 🐦 Social Media
 **Twitter/X**: [@CHESSALIENZ](https://x.com/CHESSALIENZ)  
 Follow for updates, announcements, and community highlights.
+
+**Telegram**: [https://t.me/chessalienz](https://t.me/chessalienz)  
+Join our official Telegram channel for real-time updates and community discussions.
 
 **Discord**: [Coming Soon]  
 Join our community, chat with the team, and connect with fellow chess enthusiasts.
@@ -23,7 +26,7 @@ Join our community, chat with the team, and connect with fellow chess enthusiast
 ## NFT Marketplaces
 
 ### Primary Market
-**Mint Site**: https://chessalienz.vercel.app/mint.html  
+**Mint Site**: [https://chessalienz-pawnz-mint.vercel.app](https://chessalienz-pawnz-mint.vercel.app)  
 Mint your Chessalienz: Pawnz NFT directly from our official site.
 
 ### Secondary Markets
@@ -165,10 +168,11 @@ Interviews with players, developers, and chess personalities.
 
 | Resource | Link |
 |----------|------|
-| Website | https://chessalienz.vercel.app |
-| Twitter | https://x.com/CHESSALIENZ |
+| Website | [https://chessalienz.vercel.app](https://chessalienz.vercel.app) |
+| Mint Page | [https://chessalienz-pawnz-mint.vercel.app](https://chessalienz-pawnz-mint.vercel.app) |
+| Twitter | [https://x.com/CHESSALIENZ](https://x.com/CHESSALIENZ) |
+| Telegram | [https://t.me/chessalienz](https://t.me/chessalienz) |
 | Discord | [Coming Soon] |
-| Mint | https://chessalienz.vercel.app/mint.html |
 | Whitepaper | You're here! |
 
 ---
