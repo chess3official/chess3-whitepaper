@@ -12,15 +12,15 @@
 * [Chessalienz: Pawnz](nft-collection/chessalienz-pawnz.md)
 * [Character Roles](nft-collection/character-roles.md)
 
+## Economics
+
+* [Tokenomics](economics/tokenomics.md)
+
 ## Platform
 
 * [Features](platform/features.md)
 * [Technology Stack](platform/technology-stack.md)
 * [Security](platform/security.md)
-
-## Economics
-
-* [Tokenomics](economics/tokenomics.md)
 
 ## Roadmap
 
