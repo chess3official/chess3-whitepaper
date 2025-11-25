@@ -55,6 +55,9 @@ Mint your Chessalienz: Pawnz NFT directly from our official site.
 **Phantom**: https://phantom.app  
 Most popular Solana wallet—easy to use, mobile & browser
 
+**Magic Eden Wallet**: https://magiceden.io/wallet  
+Built by the leading Solana NFT marketplace, seamless NFT integration
+
 **Solflare**: https://solflare.com  
 Feature-rich wallet with staking support
 
