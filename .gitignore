@@ -18,3 +18,9 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Old setup/guide files
+DISCORD-SETUP.md
+DISCORD-TEMPLATE-LINK.md
+*-SETUP.md
+*-TEMPLATE*.md
