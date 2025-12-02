@@ -165,7 +165,7 @@ You need SOL (Solana's native cryptocurrency) to mint your NFT and pay for trans
 ### On Mint Day:
 
 1. **Visit the Official Mint Page**
-   - Go to https://chessalienz.vercel.app/mint.html
+   - Go to https://chessalienzmint.app
    - ⚠️ **IMPORTANT**: Always verify the URL is correct
    - Bookmark the page to avoid phishing sites
 

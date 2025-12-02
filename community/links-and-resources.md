@@ -26,7 +26,7 @@ Join our community, chat with the team, and connect with fellow chess enthusiast
 ## NFT Marketplaces
 
 ### Primary Market
-**Mint Site**: [https://chessalienz-pawnz-mint.vercel.app](https://chessalienz-pawnz-mint.vercel.app)  
+**Mint Site**: [https://chessalienzmint.app](https://chessalienzmint.app)  
 Mint your Chessalienz: Pawnz NFT directly from our official site.
 
 ### Secondary Markets
@@ -172,7 +172,7 @@ Interviews with players, developers, and chess personalities.
 | Resource | Link |
 |----------|------|
 | Website | [https://chessalienz.vercel.app](https://chessalienz.vercel.app) |
-| Mint Page | [https://chessalienz-pawnz-mint.vercel.app](https://chessalienz-pawnz-mint.vercel.app) |
+| Mint Page | [https://chessalienzmint.app](https://chessalienzmint.app) |
 | Twitter | [https://x.com/CHESSALIENZ](https://x.com/CHESSALIENZ) |
 | Telegram | [https://t.me/chessalienz](https://t.me/chessalienz) |
 | Discord | [Coming Soon] |
