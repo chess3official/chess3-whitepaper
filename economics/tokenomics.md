@@ -7,7 +7,7 @@
 **IMPORTANT:** Before the main $GBTZ token launch, Chessalienz Pawnz presale passes are distributed as SPL tokens. **Only trust the official address:**
 
 ### **Official Presale Pass Token**
-- **Ticker:** `$PAWNZ`
+- **Ticker:** `$PWZP`
 - **Contract Address:** `31bLEgYfLvrQ4e9nXvKMckUG6KQ3r5yhMwBHaJqrRhDm`
 - **Network:** Solana Mainnet-Beta
 - **Standard:** SPL Token (Fungible)
