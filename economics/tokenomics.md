@@ -1,5 +1,26 @@
 # Tokenomics
 
+---
+
+## ⚠️ Official Presale Pass Token
+
+**IMPORTANT:** Before the main $GBTZ token launch, Chessalienz Pawnz presale passes are distributed as SPL tokens. **Only trust the official address:**
+
+### **Official Presale Pass Token**
+- **Ticker:** `$PAWNZ`
+- **Contract Address:** `31bLEgYfLvrQ4e9nXvKMckUG6KQ3r5yhMwBHaJqrRhDm`
+- **Network:** Solana Mainnet-Beta
+- **Standard:** SPL Token (Fungible)
+- **Supply:** 1,000 passes
+- **Decimals:** 0
+
+**Verify on Solana Explorer:**  
+[View Token →](https://solscan.io/token/31bLEgYfLvrQ4e9nXvKMckUG6KQ3r5yhMwBHaJqrRhDm)
+
+> **🚨 SCAM WARNING:** Do not trust any other token addresses claiming to be Chessalienz Pawnz. Always verify the contract address matches exactly: `31bLEgYfLvrQ4e9nXvKMckUG6KQ3r5yhMwBHaJqrRhDm`
+
+---
+
 > **TL;DR**  
 > Chess3 launches a fixed-supply token ($GBTZ) where **100% of tokens start in a DEX liquidity pool** with **$300k of liquidity**. The project then uses **another $300k to buy ~33% of the supply** from the market and locks those **333M $GBTZ** as the **reward pool for players**. Payouts per match are capped, matches per NFT are capped, and a **50% platform rake is used for ongoing buybacks**, making rewards generous for players while keeping the system sustainable long-term.
 
