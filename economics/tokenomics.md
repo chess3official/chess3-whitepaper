@@ -21,9 +21,6 @@
 
 ---
 
-> **TL;DR**  
-> Chess3 launches a fixed-supply token ($GBTZ) where **100% of tokens start in a DEX liquidity pool** with **$300k of liquidity**. The project then uses **another $300k to buy ~33% of the supply** from the market and locks those **333M $GBTZ** as the **reward pool for players**. Payouts per match are capped, matches per NFT are capped, and a **50% platform rake is used for ongoing buybacks**, making rewards generous for players while keeping the system sustainable long-term.
-
 ## $GBTZ (Gambitz) Token Overview
 
 The $GBTZ (Gambitz) token is the native utility token of the Chess3 ecosystem, powering all platform activities, governance, and rewards.
@@ -31,6 +28,9 @@ The $GBTZ (Gambitz) token is the native utility token of the Chess3 ecosystem, p
 **Launch**: Q4 2026  
 **Blockchain**: Solana (SPL Token)  
 **Total Supply**: 1,000,000,000 $GBTZ (1 billion tokens)
+
+> **TL;DR**  
+> Chess3 launches a fixed-supply token ($GBTZ) where **100% of tokens start in a DEX liquidity pool** with **$300k of liquidity**. The project then uses **another $300k to buy ~33% of the supply** from the market and locks those **333M $GBTZ** as the **reward pool for players**. Payouts per match are capped, matches per NFT are capped, and a **50% platform rake is used for ongoing buybacks**, making rewards generous for players while keeping the system sustainable long-term.
 
 ---
 
