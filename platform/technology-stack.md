@@ -4,7 +4,7 @@
 
 Chessalienz Pawnz is built on a modern, scalable, and secure technology stack leveraging the Solana blockchain and industry-leading web technologies.
 
-**Status**: ✅ **PRODUCTION READY** (December 2025)
+**Pre-sale Status**: ✅ **PRODUCTION READY** (December 2025)
 
 ---
 
