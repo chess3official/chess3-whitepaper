@@ -132,6 +132,12 @@ While we can't guarantee returns, Chessalienz: Pawnz holders benefit from:
 4. **Long-Term Vision**: Sustainable project roadmap
 5. **Fair Distribution**: No team allocation or insider deals
 
+## Redemption Process
+1. **Holder Verification**: Connect your wallet to verify NFT ownership
+2. **Claim Period**: Limited-time windows to claim physical rewards
+3. **Shipping Worldwide**: Free global shipping for verified holders
+4. **Tier Scaling**: Reward value scales with NFT rarity and holding duration
+
 ---
 
 **Ready to join the CHESS3 dimension? Mint your Chessalienz: Pawnz and become a founding member of the r3volution.**

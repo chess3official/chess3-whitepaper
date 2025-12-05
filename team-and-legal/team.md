@@ -17,7 +17,7 @@ Born in '92. Here to build worlds, play games, and HODL. 8+ years as a crypto br
 
 **Background**:
 - 8+ years in cryptocurrency and blockchain
-- Full-stack developer
+- Full-stack vibecoder
 - NFT project experience
 - Chess enthusiast since childhood
 
