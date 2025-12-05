@@ -4,7 +4,7 @@
 
 Chessalienz Pawnz is built on a modern, scalable, and secure technology stack leveraging the Solana blockchain and industry-leading web technologies.
 
-**Pre-sale Status**: ✅ **PRODUCTION READY** (December 2025)
+**Production Status**: ✅ **LIVE ON MAGIC EDEN** (December 2025)
 
 ---
 
@@ -41,31 +41,30 @@ Chessalienz Pawnz is built on a modern, scalable, and secure technology stack le
 - **@solana/wallet-adapter-wallets 0.19.37**: Multi-wallet support
 
 ### **Metaplex Integration**
-- **@metaplex-foundation/js 0.20.1**: NFT metadata & minting
-- **@metaplex-foundation/mpl-candy-machine 6.1.0**: Candy Machine v3
+- **@metaplex-foundation/js 0.20.1**: NFT metadata & candy machine deployment
+- **@metaplex-foundation/mpl-candy-machine 6.1.0**: Candy Machine v3 (deployed)
 - **@metaplex-foundation/mpl-token-metadata 3.4.0**: NFT metadata standard
-- **@metaplex-foundation/umi 1.4.1**: Unified Metaplex interface
+- **Sugar CLI**: Candy machine deployment & management
 
 ### **Wallet Support**
-- **Phantom**: Primary wallet (99% of users)
+- **Phantom**: Primary wallet
 - **Solflare**: Alternative wallet
 - **Backpack**: Gaming-focused wallet
-- **Torus**: Web2-style onboarding (disabled due to security)
-- **WalletConnect**: Cross-chain support (disabled due to security)
+- **Magic Eden Wallet**: Integrated marketplace wallet
 
 ### **Storage**
 - **Irys (Arweave)**: Permanent NFT metadata storage
 - **IPFS**: Decentralized image hosting
-- **NFT.Storage**: Backup storage solution
+- **Pinata**: IPFS pinning service
 
 ---
 
 ## 🖥️ Backend Stack
 
 ### **Runtime & Framework**
-- **Node.js 20**: LTS runtime
-- **Express.js**: Web server framework
-- **TypeScript**: Type-safe backend code
+- **Sugar CLI**: Candy machine deployment tool
+- **Node.js 20**: Development environment
+- **TypeScript**: Configuration & scripts
 
 ### **Solana Libraries**
 - **@solana/web3.js**: Blockchain interactions
@@ -79,13 +78,8 @@ Chessalienz Pawnz is built on a modern, scalable, and secure technology stack le
 
 ### **API Endpoints**
 ```
-GET  /health                    - Health check
-POST /api/presale/buy          - Purchase presale pass
-GET  /api/presale/recovery     - Admin recovery
-GET  /api/presale/stats        - Presale statistics
-GET  /api/mint-status          - Mint status
-POST /api/check-eligibility    - Check mint eligibility
-POST /api/mint                 - Mint NFT
+N/A - Deployed via Magic Eden Marketplace
+Direct candy machine interaction through Magic Eden
 ```
 
 ---
@@ -100,11 +94,9 @@ POST /api/mint                 - Mint NFT
 - **Environment**: Production + Preview branches
 
 ### **Backend Hosting**
-- **Platform**: Railway
-- **Runtime**: Node.js 20 (Nixpacks)
-- **Scaling**: Automatic horizontal scaling
-- **WAF**: Web Application Firewall
-- **Monitoring**: Built-in metrics & logs
+- **Platform**: Magic Eden Marketplace
+- **Candy Machine**: Self-hosted on Solana
+- **Management**: Sugar CLI local deployment
 
 ### **Domain & DNS**
 - **DNS Provider**: Cloudflare
@@ -115,23 +107,11 @@ POST /api/mint                 - Mint NFT
 
 ## 🔐 Security Stack
 
-### **Automated Security Scanning**
-- **Snyk**: Dependency vulnerability scanning
-- **CodeQL**: Static application security testing
-- **OSSF Scorecard**: Security health metrics
-- **Dependabot**: Automated dependency updates
-
-### **CI/CD Security**
-- **GitHub Actions**: Automated workflows
-- **Security scans**: On every push
-- **Weekly audits**: Comprehensive scans
-- **Automated alerts**: Real-time notifications
-
-### **Infrastructure Security**
-- **Railway WAF**: Request filtering & blocking
-- **Environment isolation**: Secure secrets management
-- **HTTPS only**: Encrypted traffic
-- **Rate limiting**: DDoS mitigation
+### **Candy Machine Security**
+- **Metaplex Candy Machine V3**: Battle-tested minting protocol
+- **Hidden Settings**: Art protection until reveal
+- **Authority Control**: Creator wallet management
+- **Immutable Supply**: Fixed 5,000 NFT collection
 
 ---
 
@@ -153,9 +133,10 @@ POST /api/mint                 - Mint NFT
 - **TypeScript**: Type checking
 
 ### **Testing & Monitoring**
-- **Manual testing**: Pre-deployment checks
-- **Error tracking**: Runtime error monitoring
-- **Transaction logs**: Recovery & debugging
+- **Local Testing**: Development environment validation
+- **Sugar Validation**: Pre-deployment checks
+- **Solana Explorer**: Transaction monitoring
+- **Magic Eden Analytics**: Marketplace performance
 
 ---
 
@@ -163,13 +144,11 @@ POST /api/mint                 - Mint NFT
 
 ### **Minting Flow**
 ```
-User Wallet → Frontend UI → Backend API → Solana RPC → Blockchain
-                ↓              ↓              ↓
-           Wallet Adapter   Validation   Transaction
-                ↓              ↓              ↓
-           Sign TX        Rate Limit    Confirmation
-                ↓              ↓              ↓
-           Submit         Recovery Log   Success/Error
+User Wallet → Magic Eden → Candy Machine → Solana RPC → Blockchain
+     ↓              ↓              ↓              ↓
+Wallet Adapter   Marketplace   Transaction   Confirmation
+     ↓              ↓              ↓              ↓
+Select NFT       Sign TX        On-Chain      Success/Error
 ```
 
 ### **Metadata Flow**
@@ -205,19 +184,16 @@ NFT Metadata → Irys/Arweave → Permanent Storage
   "next": "^16.0.7",
   "react": "^19.2.1",
   "@solana/web3.js": "^1.98.4",
-  "@metaplex-foundation/js": "^0.20.1",
   "tailwindcss": "^3.4.1"
 }
 ```
 
-### **Backend (15 packages)**
+### **Backend (Sugar CLI)**
 ```json
 {
-  "express": "latest",
+  "@metaplex-foundation/sugar": "latest",
   "@solana/web3.js": "^1.98.4",
-  "@solana/spl-token": "^0.4.14",
-  "express-rate-limit": "latest",
-  "cors": "latest"
+  "typescript": "latest"
 }
 ```
 
@@ -243,13 +219,13 @@ NFT Metadata → Irys/Arweave → Permanent Storage
 ## 📚 Technical Documentation
 
 ### **Public Repositories**
-- **Frontend**: [github.com/chess3official/pawnz-mint-ui](https://github.com/chess3official/pawnz-mint-ui)
-- **Backend**: [github.com/chess3official/chessalienz-pawnz-mint](https://github.com/chess3official/chessalienz-pawnz-mint)
+- **NFT Collection**: [github.com/chess3official/chessalienz-pawnz-nft-collection](https://github.com/chess3official/chessalienz-pawnz-nft-collection)
+- **Whitepaper**: [gitbook.com/chess3/whitepaper](https://gitbook.com/chess3/whitepaper)
 
 ### **Documentation**
-- [Security Audit Report](https://github.com/chess3official/chessalienz-pawnz-mint/blob/main/SECURITY-AUDIT-REPORT.md)
-- [Snyk Findings](https://github.com/chess3official/pawnz-mint-ui/blob/main/SNYK-FINDINGS.md)
-- [Setup Guide](https://github.com/chess3official/chessalienz-pawnz-mint/blob/main/THIRD-PARTY-AUDIT-SETUP.md)
+- [Candy Machine Deployment Guide](https://developers.metaplex.com/candy-machine)
+- [Magic Eden Creator Guide](https://docs.magiceden.io)
+- [Solana NFT Standards](https://docs.solana.com/nfts)
 
 ---
 
@@ -261,9 +237,9 @@ NFT Metadata → Irys/Arweave → Permanent Storage
 - **Lighthouse Score**: 90+
 
 ### **Backend**
-- **API Response Time**: < 200ms
-- **Transaction Processing**: < 500ms
-- **Uptime**: 99.9%
+- **Candy Machine Response**: < 500ms
+- **Transaction Processing**: < 1s
+- **Uptime**: 99.9% (Solana network)
 
 ### **Blockchain**
 - **Transaction Confirmation**: ~400ms
@@ -272,4 +248,4 @@ NFT Metadata → Irys/Arweave → Permanent Storage
 
 ---
 
-**Last Updated**: December 3, 2025
+**Last Updated**: December 5, 2025

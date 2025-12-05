@@ -2,156 +2,173 @@
 
 ## Overview
 
-Chessalienz Pawnz implements a comprehensive, multi-layered security approach with third-party verification and continuous monitoring to ensure the safety of user funds and data.
+Chessalienz Pawnz leverages the security of battle-tested, industry-standard protocols on Solana. By using Metaplex Candy Machine V3 and Magic Eden marketplace, we minimize custom code and attack surfaces while ensuring maximum security for user funds.
 
-**Status**: ✅ **AUDITED & VERIFIED** (December 2025)
-
----
-
-## 🛡️ Third-Party Security Audits
-
-Our codebase is continuously monitored by industry-leading security tools:
-
-### **Snyk Security Scanner**
-- **Purpose**: Dependency vulnerability scanning
-- **Frequency**: On every push + weekly automated scans
-- **Results**: [View Live Report](https://snyk.io/test/github/chess3official/chessalienz-pawnz-mint)
-
-### **GitHub CodeQL**
-- **Purpose**: Static application security testing (SAST)
-- **Frequency**: On every push + pull request
-- **Results**: [View Analysis](https://github.com/chess3official/chessalienz-pawnz-mint/security/code-scanning)
-
-### **OpenSSF Scorecard**
-- **Purpose**: Security health metrics
-- **Frequency**: Weekly automated scans
-- **Results**: [View Scorecard](https://securityscorecards.dev/viewer/?uri=github.com/chess3official/chessalienz-pawnz-mint)
-
-### **Dependabot**
-- **Purpose**: Automated dependency updates & alerts
-- **Frequency**: Real-time monitoring
-- **Results**: [View Alerts](https://github.com/chess3official/chessalienz-pawnz-mint/security/dependabot)
+**Status**: ✅ **PRODUCTION READY** (December 2025)
 
 ---
 
-## 🔐 Security Architecture
+## 🛡️ Core Security Principles
 
 ### **No Custom Smart Contracts**
 - Uses **audited Solana SPL Token standard**
+- Uses **Metaplex Candy Machine V3** (battle-tested protocol)
 - No custom Rust programs or Anchor contracts
 - Eliminates smart contract vulnerabilities
-- Leverages battle-tested Solana libraries
+- Leverages proven Solana infrastructure
+
+### **Minimal Attack Surface**
+- **No custom backend servers** to maintain or secure
+- **No APIs** to monitor or protect
+- **No databases** containing user information
+- **Direct blockchain interaction** through Magic Eden
+- **Reduced complexity** = reduced security risks
+
+---
+
+## 🔐 Candy Machine Security
+
+### **Metaplex Candy Machine V3**
+- **Battle-tested**: Thousands of collections use this protocol
+- **Immutable Supply**: Fixed 5,000 NFTs cannot be changed
+- **Authority Control**: Only creator wallet can modify settings
+- **Hidden Settings**: Art protected until official reveal
+- **Proven Track Record**: No major vulnerabilities in V3
 
 ### **Wallet Security**
-- Official Solana wallet adapters only
-- **Never stores or requests private keys**
-- Client-side transaction signing
-- No server-side key management
-
-### **Backend API Security**
-- **Rate limiting**: 10 requests/minute per IP
-- **Replay attack prevention**: Transaction signature verification
-- **CORS protection**: Restricted origins
-- **Input validation**: All user inputs sanitized
-- **Graceful shutdown**: Prevents data corruption
-
-### **Infrastructure Security**
-- **Railway WAF**: Web Application Firewall protection
-- **Environment isolation**: Secrets stored in secure vaults
-- **HTTPS only**: All traffic encrypted
-- **DDoS protection**: Built-in mitigation
+- **Client-side signing**: All transactions signed in user's wallet
+- **No key storage**: We never handle or store private keys
+- **Official adapters**: Uses Phantom, Solflare, Backpack wallets
+- **User control**: You approve every transaction
 
 ---
 
-## 📊 Vulnerability Management
+## 🚀 Magic Eden Marketplace Security
 
-### **Current Status**
-- **Critical vulnerabilities**: 0 affecting core security
-- **User funds**: ✅ 100% safe
-- **Wallet operations**: ✅ 100% secure
-- **Payment processing**: ✅ 100% protected
+### **Platform Protection**
+- **Enterprise-grade infrastructure**: Magic Eden's proven security
+- **DDoS protection**: Built-in mitigation systems
+- **SSL encryption**: All traffic encrypted
+- **Rate limiting**: Automated abuse prevention
+- **Professional monitoring**: 24/7 security team
 
-### **Identified Issues**
-All identified vulnerabilities are in **third-party dependencies** for auxiliary features (metadata upload). **None affect**:
-- ✅ Wallet security
-- ✅ Token transfers
-- ✅ Payment processing
-- ✅ Private key handling
-- ✅ User funds
-
-[View Detailed Findings →](https://github.com/chess3official/pawnz-mint-ui/blob/main/SNYK-FINDINGS.md)
+### **Transaction Security**
+- **Escrow protection**: Magic Eden holds funds during transactions
+- **Verified contracts**: Only interacts with approved smart contracts
+- **Fraud detection**: Automated suspicious activity monitoring
+- **Dispute resolution**: Professional support team
 
 ---
 
-## 🚨 Critical Security Patches
+## 📊 Risk Assessment
 
-### **CVE-2025-55182** - React Server Components RCE
-- **Severity**: Critical
-- **Status**: ✅ **PATCHED** (December 3, 2025)
-- **Action Taken**: Upgraded Next.js 16.0.1 → 16.0.7, React 19.2.0 → 19.2.1
-- **Protection**: Railway WAF blocking + patched versions deployed
+### **Low Risk Areas**
+- ✅ **Wallet security**: Handled by professional wallet providers
+- ✅ **Transaction signing**: Client-side, user-controlled
+- ✅ **Blockchain security**: Protected by Solana network
+- ✅ **NFT ownership**: Immutable on-chain records
+
+### **Mitigated Risks**
+- ✅ **Smart contract risk**: No custom contracts
+- ✅ **Server security**: No servers to maintain
+- ✅ **Data breaches**: No user data stored
+- ✅ **API attacks**: No custom APIs
+
+### **User Responsibilities**
+- 🔒 **Secure your wallet**: Use strong passwords and 2FA
+- 🔒 **Verify transactions**: Always check before signing
+- 🔒 **Use official links**: Only use Magic Eden official collection
+- 🔒 **Keep software updated**: Keep wallet apps current
 
 ---
 
-## 🔍 Transparency & Verification
+## 🔍 Transparency
 
 ### **Open Source**
-- All code publicly available on GitHub
-- Community review and contributions welcome
-- Full transparency in operations
+- **NFT generation scripts**: Publicly available on GitHub
+- **Configuration files**: Transparent candy machine setup
+- **Metadata standards**: Follows Metaplex specifications
+- **No hidden code**: Everything verifiable on-chain
 
-### **Public Audit Reports**
-- [Backend Security Report](https://github.com/chess3official/chessalienz-pawnz-mint/blob/main/SECURITY-AUDIT-REPORT.md)
-- [Frontend Snyk Findings](https://github.com/chess3official/pawnz-mint-ui/blob/main/SNYK-FINDINGS.md)
-- [Backend Snyk Findings](https://github.com/chess3official/chessalienz-pawnz-mint/blob/main/SNYK-FINDINGS.md)
-
-### **Real-Time Monitoring**
-- Automated security scans on every code change
-- Weekly comprehensive security audits
-- Immediate alerts for new vulnerabilities
+### **On-Chain Verification**
+- **Collection address**: `F7w5sWcchWpCP7TznnSqZFRzreP9PW4gU19eZ4QkKj78`
+- **Candy machine ID**: `J88JbCrVUWhigJ3kEHxCtsPhzM39BmHxZLGxmFdd4gfm`
+- **Creator wallet**: `D2nUJVgRMHgeAH8Zw3gCMjhgRZin9xmjSuStSZjtqkC2`
+- **All transactions**: Publicly visible on Solana Explorer
 
 ---
 
 ## 🛠️ Security Best Practices
 
-### **Development**
-- ✅ Dependency pinning with lock files
-- ✅ Automated security testing in CI/CD
-- ✅ Code review requirements
-- ✅ Secure coding standards
+### **For Users**
+1. **Verify Collection Address**
+   - Always check: `F7w5sWcchWpCP7TznnSqZFRzreP9PW4gU19eZ4QkKj78`
+   - Use official Magic Eden links only
+   - Bookmark the official collection page
 
-### **Deployment**
-- ✅ Environment variable isolation
-- ✅ Secrets management (Railway/Vercel)
-- ✅ Zero-downtime deployments
-- ✅ Automated rollback capabilities
+2. **Secure Your Wallet**
+   - Enable 2-factor authentication
+   - Use strong, unique passwords
+   - Never share your seed phrase
+   - Keep wallet software updated
 
-### **Operations**
-- ✅ Transaction recovery logging
-- ✅ Error monitoring and alerting
-- ✅ Regular backup procedures
-- ✅ Incident response plan
+3. **Transaction Safety**
+   - Read transaction details before signing
+   - Verify NFT price (2 SOL each)
+   - Never approve suspicious transactions
+   - Use official Magic Eden interface
+
+### **For the Project**
+1. **Minimal Custom Code**
+   - No smart contracts to audit
+   - No backend servers to secure
+   - No databases to protect
+   - Leverages proven infrastructure
+
+2. **Regular Monitoring**
+   - Monitor candy machine activity
+   - Track collection performance
+   - Watch for suspicious marketplace activity
+   - Maintain communication with community
+
+---
+
+## 🚨 Security Alerts
+
+### **Official Channels Only**
+- ✅ **Twitter**: @CHESSALIENZ
+- ✅ **Discord**: Official server only
+- ✅ **Magic Eden**: Official collection page
+- ❌ **Never trust**: DMs, random links, copycat sites
+
+### **Red Flags to Watch For**
+- 🚨 Wrong collection address
+- 🚨 Different mint price (should be 2 SOL)
+- 🚨 Requests for private keys
+- 🚨 Off-Magic Eden minting sites
+- 🚨 Urgency tactics ("mint now or lose forever")
 
 ---
 
 ## 📞 Security Contact
 
-Found a security issue? Please report it responsibly:
+Found a security issue or suspicious activity?
 
-- **Email**: [Your security email]
-- **GitHub**: [Security Advisory](https://github.com/chess3official/chessalienz-pawnz-mint/security/advisories)
+- **Discord**: #admin channel in official server
+- **Twitter**: DM @CHESSALIENZ
+- **Magic Eden**: Report through their platform
 
-We take security seriously and will respond promptly to all reports.
+We will investigate all reports and take appropriate action.
 
 ---
 
 ## 🎯 Security Commitment
 
 We are committed to:
-- **Continuous monitoring** with automated security tools
-- **Rapid response** to security vulnerabilities
-- **Transparent communication** about security issues
-- **Regular updates** to maintain security posture
 - **User safety first** in all decisions
+- **Transparent communication** about security
+- **Using proven, battle-tested technology**
+- **Minimal custom code** to reduce risks
+- **Community education** on security best practices
 
-**Last Updated**: December 3, 2025
+**Last Updated**: December 5, 2025

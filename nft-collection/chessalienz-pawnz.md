@@ -10,12 +10,11 @@
 |-----------|---------|
 | **Total Supply** | 5,000 NFTs |
 | **Blockchain** | Solana |
-| **Presale Mint Pass** | 2 SOL |
-| **Public Mint Price** | 3 SOL |
+| **Mint Price** | 2 SOL |
 | **Character Roles** | 21 unique roles |
 | **Possible Outcomes** | 112M+ |
 | **Ultra-Rare Sets** | 42 matching character combinations |
-| **Max Per Transaction** | 10 passes/NFTs |
+| **Max Per Transaction** | 10 NFTs |
 
 ## The Story
 
@@ -84,29 +83,27 @@ While the artwork is stunning, Chessalienz: Pawnz NFTs are functional assets tha
 
 ## Mint Details
 
-### Presale Phase
-- **Presale Mint Pass**: 2 SOL
-- **Supply**: 1,000 mint passes available
-- **Limit**: 10 passes per transaction
-- **Benefit**: Guaranteed mint access + early supporter status
-- **How it works**: 
-  1. Purchase PAWNZ mint passes during presale (2 SOL each)
-  2. Hold mint passes in your wallet
-  3. When public mint launches, use passes to mint NFTs
-  4. Mint pass is burned upon use
-
 ### Public Mint
-- **Date**: TBA (after presale)
-- **Price**: 3 SOL per NFT
-- **Supply**: 5,000 NFTs total (including presale allocations)
+- **Date**: Available Now
+- **Price**: 2 SOL per NFT
+- **Supply**: 5,000 NFTs total
 - **Limit**: 10 per transaction
-- **Platform**: Metaplex Candy Machine
+- **Platform**: Magic Eden
+- **Collection Address**: `F7w5sWcchWpCP7TznnSqZFRzreP9PW4gU19eZ4QkKj78`
+- **Mint Link**: [Magic Eden Collection](https://magiceden.io/collections/solana/F7w5sWcchWpCP7TznnSqZFRzreP9PW4gU19eZ4QkKj78)
+
+### How to Mint
+1. **Visit Magic Eden**: Navigate to the official collection page
+2. **Connect Wallet**: Use your Solana wallet (Phantom, Solflare, etc.)
+3. **Select Quantity**: Choose how many NFTs to mint (max 10 per transaction)
+4. **Approve Transaction**: Confirm the 2 SOL mint price per NFT
+5. **Receive NFTs**: Your Chessalienz: Pawnz NFTs appear in your wallet instantly
 
 ## Post-Mint Roadmap
 
 ### Immediate (Week 1)
 - Reveal all NFTs
-- List on secondary markets (Magic Eden, Tensor)
+- Secondary market trading on Magic Eden
 - Holder verification in Discord
 - Snapshot for future airdrops
 
@@ -140,4 +137,4 @@ While we can't guarantee returns, Chessalienz: Pawnz holders benefit from:
 
 ---
 
-**Ready to join the CHESS3 dimension? Mint your Chessalienz: Pawnz and become a founding member of the r3volution.**
+**Ready to join the CHESS3 dimension? Mint your Chessalienz: Pawnz on Magic Eden and become a founding member of the r3volution.**

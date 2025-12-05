@@ -2,7 +2,7 @@
 
 ## Complete Step-by-Step Guide
 
-This comprehensive tutorial will walk you through everything you need to mint your Chessalienz: Pawnz NFT, from creating a wallet to completing your mint.
+This comprehensive tutorial will walk you through everything you need to mint your Chessalienz: Pawnz NFT on Magic Eden, from creating a wallet to completing your mint.
 
 ---
 
@@ -98,17 +98,11 @@ You need SOL (Solana's native cryptocurrency) to mint your NFT and pay for trans
 
 ### How Much SOL Do I Need?
 
-**For Presale Mint Pass:**
-- **Mint pass price**: 2 SOL each
-- **Transaction fees**: ~0.01 SOL
-- **Limit**: 10 passes per transaction
-- **Recommended**: Have at least 2.05 SOL per pass (or 20.1 SOL for max 10 passes)
-
-**For Public Mint:**
-- **NFT price**: 3 SOL each
+**For Chessalienz: Pawnz Mint:**
+- **NFT price**: 2 SOL each
 - **Transaction fees**: ~0.01 SOL
 - **Limit**: 10 NFTs per transaction
-- **Recommended**: Have at least 3.05 SOL per NFT (or 30.1 SOL for max 10 NFTs)
+- **Recommended**: Have at least 2.05 SOL per NFT (or 20.1 SOL for max 10 NFTs)
 
 ### Where to Buy SOL
 
@@ -134,7 +128,6 @@ You need SOL (Solana's native cryptocurrency) to mint your NFT and pay for trans
 
 **Other Options:**
 - **Crypto.com**
-- **FTX** (if available in your region)
 - **Moonpay** (direct purchase in Phantom)
 
 ### How to Withdraw SOL to Your Wallet
@@ -160,60 +153,57 @@ You need SOL (Solana's native cryptocurrency) to mint your NFT and pay for trans
 
 ---
 
-## Step 3: Connect Your Wallet to Chess3
+## Step 3: Navigate to Magic Eden Collection
 
-### On Mint Day:
+### Access the Official Collection:
 
-1. **Visit the Official Mint Page**
-   - Go to https://chessalienzmint.app
-   - ⚠️ **IMPORTANT**: Always verify the URL is correct
-   - Bookmark the page to avoid phishing sites
+1. **Visit Magic Eden**
+   - Go to https://magiceden.io
+   - Search for "Chessalienz: Pawnz"
+   - Or use direct collection link
 
-2. **Connect Your Wallet**
-   - Click "CONNECT WALLET" button
+2. **Collection Address**
+   - Official collection mint: `F7w5sWcchWpCP7TznnSqZFRzreP9PW4gU19eZ4QkKj78`
+   - Verify this address matches the official collection
+
+3. **Bookmark the Collection**
+   - Save the official collection page
+   - ⚠️ **IMPORTANT**: Always verify you're on the correct Magic Eden collection
+
+---
+
+## Step 4: Connect Your Wallet to Magic Eden
+
+1. **Connect Your Wallet**
+   - Click "CONNECT WALLET" button on Magic Eden
    - A popup will appear from Phantom
    - Review the connection request
    - Click "Connect" in Phantom
 
-3. **Approve Connection**
+2. **Approve Connection**
    - Phantom will ask for permission
    - This does NOT give access to your funds
-   - It only allows the site to see your address
+   - It only allows Magic Eden to see your address
    - Click "Approve"
 
-4. **Wallet Connected!**
+3. **Wallet Connected!**
    - You'll see your wallet address displayed
    - Your SOL balance will be visible
    - The mint interface will activate
 
 ---
 
-## Step 4: Mint Your Chessalienz: Pawnz
+## Step 5: Mint Your Chessalienz: Pawnz
 
-### Understanding the Presale
-
-Chess3 offers a **two-phase mint**:
-
-**Phase 1: Presale Mint Pass**
-- **Price**: 2 SOL per mint pass
-- **Supply**: 1,000 mint passes
-- **Limit**: 10 passes per transaction
-- **Benefit**: Guaranteed mint access + early supporter status
-
-**Phase 2: Public Mint**
-- **Price**: 3 SOL per NFT
-- **Limit**: 10 NFTs per transaction
-- **Supply**: 5,000 NFTs total
-
-### Minting Process
+### Minting Process on Magic Eden
 
 1. **Check Current Price**
-   - The current mint price is displayed prominently
-   - Price updates automatically every 60 seconds (if no mints occur)
+   - The mint price is displayed (2 SOL per NFT)
+   - Verify the price matches official announcement
 
 2. **Select Quantity**
-   - Use the + and - buttons
-   - Maximum 10 per wallet
+   - Use the quantity selector
+   - Maximum 10 per transaction
    - Total cost is shown below
 
 3. **Review Your Purchase**
@@ -221,18 +211,18 @@ Chess3 offers a **two-phase mint**:
    - Check the total SOL amount
    - Ensure you have enough SOL (including fees)
 
-4. **Click "MINT NOW"**
+4. **Click "MINT"**
    - The mint button will activate
    - Click once and wait
 
 5. **Approve Transaction in Phantom**
    - Phantom popup will appear
    - Review the transaction details
-   - Check the SOL amount
+   - Check the SOL amount (2 SOL × quantity)
    - Click "Approve"
 
 6. **Wait for Confirmation**
-   - Transaction is processing
+   - Transaction is processing on Solana
    - Usually takes 5-30 seconds
    - Do NOT close the page
    - Do NOT click mint again
@@ -244,7 +234,7 @@ Chess3 offers a **two-phase mint**:
 
 ---
 
-## Step 5: View Your NFT
+## Step 6: View Your NFT
 
 ### In Phantom Wallet
 
@@ -262,6 +252,18 @@ Chess3 offers a **two-phase mint**:
    - See all traits and attributes
    - View rarity information
 
+### On Magic Eden
+
+1. **Visit Your Profile**
+   - Go to your Magic Eden profile
+   - Click "Collectibles"
+   - Find your Chessalienz: Pawnz
+
+2. **View on Collection Page**
+   - Go back to the collection page
+   - Your newly minted NFTs will appear
+   - Click to view details and traits
+
 ### On Solana Explorer
 
 1. **Click Transaction Link**
@@ -273,13 +275,33 @@ Chess3 offers a **two-phase mint**:
    - Verify your NFT ownership
    - Check all on-chain data
 
-### On NFT Marketplaces
+---
 
-After mint, your NFT will be visible on:
-- **Magic Eden**: https://magiceden.io
-- **Tensor**: https://tensor.trade
-- Search for "Chessalienz Pawnz"
-- Connect wallet to see your collection
+## Step 7: Post-Mint Actions
+
+### Join the Community
+
+1. **Discord Verification**
+   - Join the official Chess3 Discord
+   - Verify your NFT ownership
+   - Get holder-exclusive roles
+
+2. **Twitter Announcement**
+   - Share your mint on Twitter
+   - Tag @CHESSALIENZ
+   - Join the community discussion
+
+### Prepare for Utility
+
+1. **Platform Access**
+   - Your NFT grants access to Chess3 beta
+   - Watch for platform launch announcements
+   - Prepare for tournament participation
+
+2. **Staking (Coming Soon)**
+   - Hold your NFT for future staking rewards
+   - Governance rights will be activated
+   - Special airdrops for holders
 
 ---
 
@@ -310,19 +332,26 @@ After mint, your NFT will be visible on:
   - Check on Solscan with your wallet address
 
 ### "Already Minted Maximum"
-- **Problem**: You've reached the 10 NFT per wallet limit
-- **Solution**: Use a different wallet or wait for secondary market
+- **Problem**: You've reached the 10 NFT per transaction limit
+- **Solution**: Use a different transaction or wait for secondary market
+
+### "Collection Not Found"
+- **Problem**: Wrong collection address
+- **Solution**: 
+  - Verify collection address: `F7w5sWcchWpCP7TznnSqZFRzreP9PW4gU19eZ4QkKj78`
+  - Use official links from Chess3 Twitter/Discord
 
 ---
 
 ## Security Tips
 
 ### ✅ DO:
-- Double-check URLs before connecting
+- Double-check collection addresses before minting
 - Keep your recovery phrase offline and secure
 - Use a hardware wallet for large amounts
 - Enable 2FA on exchanges
 - Verify transaction details before approving
+- Only use the official Magic Eden collection page
 
 ### ❌ DON'T:
 - Share your recovery phrase with anyone
@@ -330,19 +359,20 @@ After mint, your NFT will be visible on:
 - Approve transactions you don't understand
 - Keep large amounts on exchanges
 - Use public WiFi for transactions
+- Mint from unofficial sites or links
 
 ---
 
 ## Common Questions
 
-**Q: When is the mint?**  
-A: Mint date will be announced on Twitter and Discord. Follow @CHESSALIENZ for updates.
+**Q: Where do I mint?**  
+A: On Magic Eden using the official collection page. Collection address: `F7w5sWcchWpCP7TznnSqZFRzreP9PW4gU19eZ4QkKj78`
 
-**Q: What if I miss the mint?**  
+**Q: What if the collection is sold out?**  
 A: You can purchase on secondary markets like Magic Eden after mint.
 
 **Q: Can I mint more than 10?**  
-A: No, maximum 10 per wallet to ensure fair distribution.
+A: Maximum 10 per transaction, but you can do multiple transactions.
 
 **Q: What happens if I send SOL to the wrong address?**  
 A: Transactions are irreversible. Always double-check addresses.
@@ -351,7 +381,10 @@ A: Transactions are irreversible. Always double-check addresses.
 A: Yes, Solana transaction fees are very low (~0.000005 SOL per transaction).
 
 **Q: Can I mint from mobile?**  
-A: Yes! Use Phantom mobile app and visit the mint page in the in-app browser.
+A: Yes! Use Phantom mobile app and visit Magic Eden in the in-app browser.
+
+**Q: How do I know it's the official collection?**  
+A: Verify the collection address matches `F7w5sWcchWpCP7TznnSqZFRzreP9PW4gU19eZ4QkKj78` and use official links from Chess3 channels.
 
 ---
 
@@ -360,26 +393,28 @@ A: Yes! Use Phantom mobile app and visit the mint page in the in-app browser.
 ### Official Support Channels
 - **Discord**: [Join our server] - #support channel
 - **Twitter**: [@CHESSALIENZ](https://x.com/CHESSALIENZ) - DM for help
-- **Email**: support@chess3.io (coming soon)
+- **Magic Eden Support**: For platform-specific issues
 
 ### Before Asking for Help
 1. Check this guide again
 2. Search Discord for similar issues
 3. Check Solana network status
 4. Try basic troubleshooting steps
+5. Verify you're on the correct Magic Eden collection
 
 ---
 
 ## Ready to Mint?
 
 1. ✅ Wallet created and funded
-2. ✅ Bookmarked official mint page
-3. ✅ Following @CHESSALIENZ for announcements
-4. ✅ Joined Discord for updates
-5. ✅ Read this guide thoroughly
+2. ✅ Bookmarked official Magic Eden collection
+3. ✅ Verified collection address
+4. ✅ Following @CHESSALIENZ for updates
+5. ✅ Joined Discord for support
+6. ✅ Read this guide thoroughly
 
-**You're ready! See you at the mint!** 🚀♟️
+**You're ready! See you on Magic Eden!** 🚀♟️
 
 ---
 
-*Last updated: November 2025*
+*Last updated: December 2025*
