@@ -16,15 +16,15 @@
 
 * [Tokenomics](economics/tokenomics.md)
 
+## Roadmap
+
+* [Development Phases](roadmap/development-phases.md)
+
 ## Platform
 
 * [Features](platform/features.md)
 * [Technology Stack](platform/technology-stack.md)
 * [Security](platform/security.md)
-
-## Roadmap
-
-* [Development Phases](roadmap/development-phases.md)
 
 ## Team & Legal
 
