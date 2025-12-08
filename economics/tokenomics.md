@@ -56,7 +56,25 @@ Design assumptions:
 - **Max daily matches:** 88,880 (8,888 NFTs × 10 matches/day)  
 - **Payout split per match:** 75% winner, 25% loser
 
-*For detailed earnings simulations and sustainability analysis, see [Earnings Simulations →](earnings-simulations.md)*
+*For detailed sustainability analysis and game limits, see [Earnings Simulations →](earnings-simulations.md)*
+
+## 📊 Earnings Scenario Analysis
+
+Based on the recommended configuration (2,000 $GBTZ per game, 10 games/day):
+
+| Win Rate | Daily $GBTZ | Daily USD | Monthly $GBTZ | Monthly USD | Annual $GBTZ | Annual USD |
+|----------|-------------|-----------|---------------|-------------|--------------|------------|
+| 100% | 20,000 | $20.00 | 600,000 | $600.00 | 7,200,000 | $7,200.00 |
+| 75% | 16,668 | $16.67 | 500,040 | $500.04 | 6,000,480 | $6,000.48 |
+| 50% | 13,335 | $13.34 | 400,050 | $400.05 | 4,800,600 | $4,800.60 |
+| 25% | 10,003 | $10.00 | 300,090 | $300.09 | 3,601,080 | $3,601.08 |
+| 0% | 6,670 | $6.67 | 200,100 | $200.10 | 2,401,200 | $2,401.20 |
+
+**Key Insights:**
+- **Even losing players earn $200/month** - meaningful income in many countries
+- **Average players (50% win rate) earn $400/month** - substantial side income  
+- **Top players earn $600/month** - significant earnings potential
+- **All calculations based on $0.001 initial token price**
 
 ### Recommended Payout Per Match
 
