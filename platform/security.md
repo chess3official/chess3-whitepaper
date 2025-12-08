@@ -30,7 +30,7 @@ Chessalienz Pawnz leverages the security of battle-tested, industry-standard pro
 
 ### **Metaplex Candy Machine V3**
 - **Battle-tested**: Thousands of collections use this protocol
-- **Immutable Supply**: Fixed 5,000 NFTs cannot be changed
+- **Immutable Supply**: Fixed 8,888 NFTs cannot be changed
 - **Authority Control**: Only creator wallet can modify settings
 - **Hidden Settings**: Art protected until official reveal
 - **Proven Track Record**: No major vulnerabilities in V3
@@ -91,8 +91,8 @@ Chessalienz Pawnz leverages the security of battle-tested, industry-standard pro
 - **No hidden code**: Everything verifiable on-chain
 
 ### **On-Chain Verification**
-- **Collection address**: `F7w5sWcchWpCP7TznnSqZFRzreP9PW4gU19eZ4QkKj78`
-- **Candy machine ID**: `J88JbCrVUWhigJ3kEHxCtsPhzM39BmHxZLGxmFdd4gfm`
+- **Collection address**: `4Ew8JgwDFoCMpcTZpSLfFmtSZsyTqNksf3hktMDCGz45`
+- **Candy machine ID**: `JArnzz3MYkd4Etj191TX3YW8szK399n7tr54sLChTq9A`
 - **Creator wallet**: `D2nUJVgRMHgeAH8Zw3gCMjhgRZin9xmjSuStSZjtqkC2`
 - **All transactions**: Publicly visible on Solana Explorer
 
@@ -102,7 +102,7 @@ Chessalienz Pawnz leverages the security of battle-tested, industry-standard pro
 
 ### **For Users**
 1. **Verify Collection Address**
-   - Always check: `F7w5sWcchWpCP7TznnSqZFRzreP9PW4gU19eZ4QkKj78`
+   - Always check: `4Ew8JgwDFoCMpcTZpSLfFmtSZsyTqNksf3hktMDCGz45`
    - Use official Magic Eden links only
    - Bookmark the official collection page
 
@@ -114,7 +114,7 @@ Chessalienz Pawnz leverages the security of battle-tested, industry-standard pro
 
 3. **Transaction Safety**
    - Read transaction details before signing
-   - Verify NFT price (2 SOL each)
+   - Verify NFT price (1 SOL each)
    - Never approve suspicious transactions
    - Use official Magic Eden interface
 
@@ -143,7 +143,7 @@ Chessalienz Pawnz leverages the security of battle-tested, industry-standard pro
 
 ### **Red Flags to Watch For**
 - 🚨 Wrong collection address
-- 🚨 Different mint price (should be 2 SOL)
+- 🚨 Different mint price (should be 1 SOL)
 - 🚨 Requests for private keys
 - 🚨 Off-Magic Eden minting sites
 - 🚨 Urgency tactics ("mint now or lose forever")
