@@ -29,28 +29,19 @@ Chessalienz Pawnz is built on a modern, scalable, and secure technology stack le
 ## 🎨 Frontend Stack
 
 ### **Framework & Libraries**
-- **Next.js 16.0.7**: React framework with server components
-- **React 19.2.1**: UI library with latest features
-- **TypeScript**: Type-safe development
-- **Tailwind CSS 3.4**: Utility-first styling
+- **Vite 5.0.0**: Modern build tool and development server
+- **Vanilla JavaScript**: Pure JS implementation (no React framework)
+- **CSS3**: Custom styling with animations
+- **HTML5**: Semantic markup structure
+
+### **Build Tools**
+- **vite-plugin-node-polyfills**: Node.js API browser compatibility
+- **Browser Polyfills**: crypto, buffer, stream, assert for Solana integration
 
 ### **Solana Integration**
-- **@solana/web3.js 1.98.4**: Core Solana library
-- **@solana/spl-token 0.4.14**: Token operations
-- **@solana/wallet-adapter-react 0.15.39**: Wallet connectivity
-- **@solana/wallet-adapter-wallets 0.19.37**: Multi-wallet support
-
-### **Metaplex Integration**
-- **@metaplex-foundation/js 0.20.1**: NFT metadata & candy machine deployment
-- **@metaplex-foundation/mpl-candy-machine 6.1.0**: Candy Machine v3 (deployed)
-- **@metaplex-foundation/mpl-token-metadata 3.4.0**: NFT metadata standard
-- **Sugar CLI**: Candy machine deployment & management
-
-### **Wallet Support**
-- **Phantom**: Primary wallet
-- **Solflare**: Alternative wallet
-- **Backpack**: Gaming-focused wallet
-- **Magic Eden Wallet**: Integrated marketplace wallet
+- **Browser-based wallet connection**: Direct wallet adapter integration
+- **Client-side signing**: All transaction signing in browser
+- **Magic Eden compatibility**: Optimized for marketplace integration
 
 ### **Storage**
 - **Irys (Arweave)**: Permanent NFT metadata storage
@@ -196,13 +187,15 @@ NFT Metadata → Irys/Arweave → Permanent Storage
 
 ## 📦 Key Dependencies
 
-### **Frontend (44 packages)**
+### **Frontend (6 packages)**
 ```json
 {
-  "next": "^16.0.7",
-  "react": "^19.2.1",
-  "@solana/web3.js": "^1.98.4",
-  "tailwindcss": "^3.4.1"
+  "vite": "^5.0.0",
+  "assert": "^2.1.0",
+  "buffer": "^6.0.3",
+  "crypto-browserify": "^3.12.0",
+  "stream-browserify": "^3.0.0",
+  "vite-plugin-node-polyfills": "^0.19.0"
 }
 ```
 
@@ -215,23 +208,6 @@ NFT Metadata → Irys/Arweave → Permanent Storage
   "typescript": "latest"
 }
 ```
-
----
-
-## 🔮 Future Enhancements
-
-### **Planned Upgrades**
-- [ ] WebSocket support for real-time updates
-- [ ] Advanced caching layer
-- [ ] GraphQL API
-- [ ] Mobile app (React Native)
-- [ ] Enhanced analytics dashboard
-
-### **Blockchain Improvements**
-- [ ] Compressed NFTs (cNFTs)
-- [ ] State compression
-- [ ] Cross-program invocations (CPI)
-- [ ] Token-2022 standard
 
 ---
 
@@ -249,24 +225,4 @@ NFT Metadata → Irys/Arweave → Permanent Storage
 
 ---
 
-## 🎯 Performance Metrics
-
-### **Frontend**
-- **First Contentful Paint**: < 1.5s
-- **Time to Interactive**: < 3.0s
-- **Lighthouse Score**: 90+
-
-### **Backend**
-- **Magic Block API Response**: < 300ms
-- **Candy Machine Response**: < 500ms
-- **Transaction Processing**: < 1s
-- **Uptime**: 99.9% (Solana network + Magic Block)
-
-### **Blockchain**
-- **Transaction Confirmation**: ~400ms
-- **Success Rate**: 99%+
-- **Cost per Mint**: ~0.002 SOL
-
----
-
-**Last Updated**: December 5, 2025
+**Last Updated**: December 8, 2025
