@@ -13,7 +13,7 @@
 | **Mint Price** | 1 SOL |
 | **Character Roles** | 21 unique roles |
 | **Possible Outcomes** | 112M+ |
-| **Ultra-Rare Sets** | 42 matching character combinations |
+| **Ultra-Rare Sets** | 126 matching character combinations (42 Max Ultra Rare + 84 Ultra Rare) |
 | **Max Per Transaction** | 10 NFTs |
 
 ## The Story
@@ -43,7 +43,7 @@ Each Chessalienz: Pawnz NFT consists of **8 layers**:
 
 With 8 layers and multiple traits per layer, there are **112M+ possible outcomes**!
 
-### Ultra Rare (0.47% - 42 NFTs)
+### Max Ultra Rare (0.47% - 42 NFTs)
 - **All matching ultra traits** across body, head, ring, and base
 - **Exclusive hollow backgrounds** (Hollowblack or Hollowwhite)
 - **Foil layer activated** for maximum visual impact
@@ -51,21 +51,30 @@ With 8 layers and multiple traits per layer, there are **112M+ possible outcomes
 - 21 with Hollowblack background + White color
 - 21 with Hollowwhite background + Black color
 
-### Super Rare (0.94% - 84 NFTs)
+### Ultra Rare (0.94% - 84 NFTs)
 - **All matching regular traits** across body, head, ring, and base
 - **Exclusive shiny backgrounds** (Shinyblack or Shinywhite)
 - **2 per character per color** - extremely limited!
 - 42 with Shinyblack background + White color
 - 42 with Shinywhite background + Black color
 
-### Rare (5% - 444 NFTs)
-- **At least 1 ultra trait** mixed with regular traits
+### Super Rare (5% - 444 NFTs)
+- **Exactly 3 ultra traits** mixed with 1 regular trait
 - Standard backgrounds
-- Unique combinations with premium traits
+- Premium combinations with dominant ultra trait presence
 
-### Common & Uncommon (93.59% - 8,278 NFTs)
-- **Uncommon**: Matching regular traits (all 4 layers same character)
-- **Common**: Random trait combinations
+### Rare (10% - 889 NFTs)
+- **Exactly 2 ultra traits** mixed with 2 regular traits
+- Standard backgrounds
+- Balanced combinations with notable ultra trait influence
+
+### Uncommon (25% - 2,222 NFTs)
+- **Exactly 1 ultra trait** mixed with 3 regular traits
+- Standard backgrounds
+- Entry-level premium combinations
+
+### Common (58.59% - 5,207 NFTs)
+- **All regular traits** (no ultra traits)
 - Standard backgrounds and colors
 - Wide variety of character combinations
 
