@@ -2,15 +2,15 @@
 
 ## Genesis Collection Overview
 
-**Chessalienz: Pawnz** is the genesis NFT collection of the Chess3 ecosystem—5,000 unique hand-designed vector pawn beings from the CHESS3 dimension.
+**Chessalienz: Pawnz** is the genesis NFT collection of the Chess3 ecosystem—8,888 unique hand-designed vector pawn beings from the CHESS3 dimension.
 
 ## Collection Specifications
 
 | Attribute | Details |
 |-----------|---------|
-| **Total Supply** | 5,000 NFTs |
+| **Total Supply** | 8,888 NFTs |
 | **Blockchain** | Solana |
-| **Mint Price** | 2 SOL |
+| **Mint Price** | 1 SOL |
 | **Character Roles** | 21 unique roles |
 | **Possible Outcomes** | 112M+ |
 | **Ultra-Rare Sets** | 42 matching character combinations |
@@ -43,7 +43,7 @@ Each Chessalienz: Pawnz NFT consists of **8 layers**:
 
 With 8 layers and multiple traits per layer, there are **112M+ possible outcomes**!
 
-### Ultra Rare (0.84% - 42 NFTs)
+### Ultra Rare (0.47% - 42 NFTs)
 - **All matching ultra traits** across body, head, ring, and base
 - **Exclusive hollow backgrounds** (Hollowblack or Hollowwhite)
 - **Foil layer activated** for maximum visual impact
@@ -51,19 +51,19 @@ With 8 layers and multiple traits per layer, there are **112M+ possible outcomes
 - 21 with Hollowblack background + White color
 - 21 with Hollowwhite background + Black color
 
-### Super Rare (1.68% - 84 NFTs)
+### Super Rare (0.94% - 84 NFTs)
 - **All matching regular traits** across body, head, ring, and base
 - **Exclusive shiny backgrounds** (Shinyblack or Shinywhite)
 - **2 per character per color** - extremely limited!
 - 42 with Shinyblack background + White color
 - 42 with Shinywhite background + Black color
 
-### Rare (5% - 250 NFTs)
+### Rare (5% - 444 NFTs)
 - **At least 1 ultra trait** mixed with regular traits
 - Standard backgrounds
 - Unique combinations with premium traits
 
-### Common & Uncommon (92.48% - 4,624 NFTs)
+### Common & Uncommon (93.59% - 8,278 NFTs)
 - **Uncommon**: Matching regular traits (all 4 layers same character)
 - **Common**: Random trait combinations
 - Standard backgrounds and colors
@@ -85,18 +85,18 @@ While the artwork is stunning, Chessalienz: Pawnz NFTs are functional assets tha
 
 ### Public Mint
 - **Date**: Available Now
-- **Price**: 2 SOL per NFT
-- **Supply**: 5,000 NFTs total
+- **Price**: 1 SOL per NFT
+- **Supply**: 8,888 NFTs total
 - **Limit**: 10 per transaction
 - **Platform**: Magic Eden
-- **Collection Address**: `F7w5sWcchWpCP7TznnSqZFRzreP9PW4gU19eZ4QkKj78`
-- **Mint Link**: [Magic Eden Collection](https://magiceden.io/collections/solana/F7w5sWcchWpCP7TznnSqZFRzreP9PW4gU19eZ4QkKj78)
+- **Collection Address**: `JArnzz3MYkd4Etj191TX3YW8szK399n7tr54sLChTq9A`
+- **Mint Link**: [Magic Eden Collection](https://magiceden.io/collections/solana/JArnzz3MYkd4Etj191TX3YW8szK399n7tr54sLChTq9A)
 
 ### How to Mint
 1. **Visit Magic Eden**: Navigate to the official collection page
 2. **Connect Wallet**: Use your Solana wallet (Phantom, Solflare, etc.)
 3. **Select Quantity**: Choose how many NFTs to mint (max 10 per transaction)
-4. **Approve Transaction**: Confirm the 2 SOL mint price per NFT
+4. **Approve Transaction**: Confirm the 1 SOL mint price per NFT
 5. **Receive NFTs**: Your Chessalienz: Pawnz NFTs appear in your wallet instantly
 
 ## Post-Mint Roadmap
