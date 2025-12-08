@@ -31,6 +31,20 @@
 
 ---
 
+## 🎮 NFT Rarity Distribution (Updated)
+
+| Tier | Percentage | Count | Description |
+|------|------------|-------|-------------|
+| **Max Ultra Rare** | 0.47% | 42 NFTs | All matching ultra traits + hollow backgrounds |
+| **Ultra Rare** | 0.94% | 84 NFTs | All matching regular traits + shiny backgrounds |
+| **Super Rare** | 5% | 444 NFTs | Exactly 3 ultra traits |
+| **Rare** | 10% | 888 NFTs | Exactly 2 ultra traits |
+| **Uncommon** | 25% | 2,222 NFTs | Exactly 1 ultra trait |
+| **Common** | 58.59% | 5,208 NFTs | All regular traits |
+| **Total** | 100% | 8,888 NFTs | Complete collection |
+
+---
+
 ## 🎮 Earnings Scenarios Analysis
 
 ### Base Parameters

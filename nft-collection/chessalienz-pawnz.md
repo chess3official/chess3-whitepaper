@@ -63,7 +63,7 @@ With 8 layers and multiple traits per layer, there are **112M+ possible outcomes
 - Standard backgrounds
 - Premium combinations with dominant ultra trait presence
 
-### Rare (10% - 889 NFTs)
+### Rare (10% - 888 NFTs)
 - **Exactly 2 ultra traits** mixed with 2 regular traits
 - Standard backgrounds
 - Balanced combinations with notable ultra trait influence
@@ -73,7 +73,7 @@ With 8 layers and multiple traits per layer, there are **112M+ possible outcomes
 - Standard backgrounds
 - Entry-level premium combinations
 
-### Common (58.59% - 5,207 NFTs)
+### Common (58.59% - 5,208 NFTs)
 - **All regular traits** (no ultra traits)
 - Standard backgrounds and colors
 - Wide variety of character combinations
