@@ -30,7 +30,7 @@ The $GBTZ (Gambitz) token is the native utility token of the Chess3 ecosystem, p
 **Total Supply**: 1,000,000,000 $GBTZ (1 billion tokens)
 
 > **TL;DR**  
-> Chess3 launches a fixed-supply token ($GBTZ) where **100% of tokens start in a DEX liquidity pool** with **$300k of liquidity**. The project then uses **another $300k to buy ~33% of the supply** from the market and locks those **333M $GBTZ** as the **reward pool for players**. Payouts per match are capped, matches per NFT are capped, and a **50% platform rake is used for ongoing buybacks**, making rewards generous for players while keeping the system sustainable long-term.
+> Chess3 launches a fixed-supply token ($GBTZ) where **100% of tokens start in a DEX liquidity pool** with **$100k of liquidity**. The project then uses **$100k to buy 10% of the supply** from the market and locks those **100M $GBTZ** as the **reward pool for players**. An additional **$200k cushion** supports the **50% platform rake** for ongoing buybacks, making rewards generous for players while keeping the system sustainable long-term.
 
 ---
 
@@ -43,20 +43,24 @@ The $GBTZ (Gambitz) token is the native utility token of the Chess3 ecosystem, p
 Instead of splitting supply into many buckets, Chess3 uses a **pure liquidity + rewards** model designed for transparency and sustainability:
 
 - **100% of tokens are seeded into a liquid DEX pool**  
-  1,000,000,000 $GBTZ are paired with **$300,000 USD** of liquidity.
+  1,000,000,000 $GBTZ are paired with **$100,000 USD** of liquidity.
 
-- **$300,000 separate buy order**  
-  An additional **$300,000 USD** is used to **buy ~33.3% of the supply** from the pool.  
-  This acquires approximately **333,333,333 $GBTZ**.
+- **$100,000 separate buy order**  
+  An additional **$100,000 USD** is used to **buy 10% of the supply** from the pool.  
+  This acquires exactly **100,000,000 $GBTZ**.
 
-- **Reward pool (33.3% of total supply)**  
-  The **333M $GBTZ** purchased by the project becomes the **entire gameplay reward pool**.  
+- **Reward pool (10% of total supply)**  
+  The **100M $GBTZ** purchased by the project becomes the **entire gameplay reward pool**.  
   All player rewards are paid from this bought-back supply – no hidden emissions or extra minting.
+
+- **$200,000 platform cushion**  
+  Additional **$200,000 USD** reserve to support the **50% platform rake** and ensure sustainable buybacks during market fluctuations.
 
 **Net result:**
 
-- **DEX LP:** 100% of tokens start in the LP with $300k liquidity.
-- **Reward Pool:** ~33.3% of supply (333M $GBTZ) is owned by the project and reserved for player payouts.
+- **DEX LP:** 100% of tokens start in the LP with $100k liquidity.
+- **Reward Pool:** 10% of supply (100M $GBTZ) is owned by the project and reserved for player payouts.
+- **Platform Cushion:** $200k reserve for ongoing buybacks and market stability.
 - **Circulating Supply:** The rest of the supply is held by the market (liquidity providers + traders), not a central treasury.
 
 ---
@@ -66,65 +70,76 @@ Instead of splitting supply into many buckets, Chess3 uses a **pure liquidity + 
 Design assumptions:
 
 - **Total Supply:** 1,000,000,000 $GBTZ  
-- **Reward Pool:** 333,333,333 $GBTZ  
-- **Max daily matches:** 50,000 (5,000 NFTs × 10 matches/day)  
+- **Reward Pool:** 100,000,000 $GBTZ (10% of supply)
+- **Platform Cushion:** $200,000 USD for buybacks
+- **Max daily matches:** 88,880 (8,888 NFTs × 10 matches/day)  
 - **Payout split per match:** 75% winner, 25% loser
+
+*For detailed earnings simulations and sustainability analysis, see [Earnings Simulations →](earnings-simulations.md)*
 
 ### Recommended Payout Per Match
 
-Assuming an initial price of ≈$0.0009 per $GBTZ:
+Assuming an initial price of ≈$0.001 per $GBTZ:
 
-| Max daily matches | Recommended daily budget | Gross pot per match | Winner (75%) | Loser (25%) | USD value per match @ $0.0009 | Monthly earnings (10 games/day) |
-|-------------------|--------------------------|----------------------|--------------|-------------|--------------------------------|---------------------------------|
-| 50,000            | 400,000 $GBTZ/day        | 8,000 $GBTZ          | 6,000        | 2,000       | ≈ $7.20                        | ≈ $2,160/month                  |
-| 50,000            | 333,333 $GBTZ/day        | 6,666 $GBTZ          | 5,000        | 1,666       | ≈ $6.00                        | ≈ $1,800/month                  |
-| 50,000            | 250,000 $GBTZ/day        | 5,000 $GBTZ          | 3,750        | 1,250       | ≈ $4.50                        | ≈ $1,350/month                  |
+| Max daily matches | Recommended daily budget | Gross pot per match | Winner (75%) | Loser (25%) | USD value per match @ $0.001 | Monthly earnings (10 games/day) |
+|-------------------|--------------------------|----------------------|--------------|-------------|------------------------------|---------------------------------|
+| 88,880            | 177,760,000 $GBTZ/day   | 2,000 $GBTZ          | 1,500        | 667         | ≈ $2.00                      | ≈ $600/month (100% win rate)   |
+| 88,880            | 133,320,000 $GBTZ/day   | 1,500 $GBTZ          | 1,125        | 500         | ≈ $1.50                      | ≈ $450/month (100% win rate)   |
+| 88,880            | 88,880,000 $GBTZ/day    | 1,000 $GBTZ          | 750          | 333         | ≈ $1.00                      | ≈ $300/month (100% win rate)   |
 
-For 5,000 NFTs, a **6,000–8,000 $GBTZ** gross pot per ranked match is the sweet spot:
+For 8,888 NFTs, a **1,500–2,000 $GBTZ** gross pot per ranked match is optimal:
 
-- Winner earns **≈$4.50–$5.40 USD** per game.  
-- Loser earns **≈$1.50–$1.80 USD** per game.  
-- A daily grinder (10 games/day) earns **≈$1,350–$2,160 per month** just from ranked play.
+- Winner earns **≈$1.50–$2.00 USD** per game.  
+- Loser earns **≈$0.50–$0.67 USD** per game.  
+- A daily grinder (10 games/day) earns **≈$300–$600 per month** just from ranked play.
+
+*See detailed scenarios including 50/50 and losing streaks in [Earnings Simulations →](earnings-simulations.md)*
 
 This is meaningful, life-changing side income in many countries – purely from playing chess.
 
-### Sustainability Check (50,000 Matches/Day = Absolute Max)
+### Sustainability Check (88,880 Matches/Day = Maximum with 8,888 NFTs)
 
-Using a middle configuration from the range above:
+Using the optimal configuration from the range above:
 
-- **Gross pot per ranked match:** 7,000 $GBTZ  
-- **Winner payout:** 5,250 $GBTZ  
-- **Loser payout:** 1,750 $GBTZ  
-- **Daily payout budget (max usage):** ≈350,000 $GBTZ/day  
-- **Reward pool:** 333,333,333 $GBTZ
+- **Gross pot per ranked match:** 2,000 $GBTZ  
+- **Winner payout:** 1,500 $GBTZ  
+- **Loser payout:** 667 $GBTZ  
+- **Daily payout budget (max usage):** 177,760,000 $GBTZ/day  
+- **Reward pool:** 100,000,000 $GBTZ
 
-If there were **no buybacks at all**, the 333M reward pool would last:
+If there were **no buybacks at all**, the 100M reward pool would last:
 
-- 333,333,333 ÷ 350,000 ≈ **952 days** → **more than 2.6 years** of payouts at absolute maximum usage.
+- 100,000,000 ÷ 177,760,000 ≈ **0.56 days** at absolute maximum usage.
+
+This demonstrates why **game limits are essential** for sustainability.
 
 Now layer in a **50% rake on platform revenue** that is used to **buy back $GBTZ from the market**:
 
-- At a 400,000 $GBTZ/day gross payout level, a 50% rake implies the equivalent of **200,000 $GBTZ/day** bought back (at steady state pricing).  
-- This dramatically reduces the net drain on the 333M pool and can flip it positive when you add staking / betting volume.
+- At 177,760,000 $GBTZ/day gross payout level, a 50% rake implies **88,880,000 $GBTZ/day** bought back.  
+- This creates a **self-sustaining system** where buybacks nearly match reward pool outflows.  
+- The **$200,000 platform cushion** ensures buybacks continue during market volatility.
 
 With:
 
 - **50% of fees redirected to buybacks**, and  
 - **Additional inflows from staking / betting / tournaments**,  
 
-the reward pool becomes effectively **self-sustaining and growing** over time.
+the reward pool becomes **self-sustaining and potentially growing** over time.
 
 ### Summary Metrics
 
 | Metric                               | Value                                             |
 |--------------------------------------|---------------------------------------------------|
-| Gross pot per ranked match           | 7,000 $GBTZ                                      |
-| Winner payout                        | 5,250 $GBTZ ≈ $4.73 USD at launch                |
-| Loser payout                         | 1,750 $GBTZ ≈ $1.58 USD at launch                |
-| Daily budget (max usage)            | ~350,000 $GBTZ (≈0.105% of reward pool)         |
-| Lifetime without buybacks            | > 2.6 years                                      |
-| Lifetime with 50% rake + inflows     | Effectively infinite + constantly growing pool   |
-| Top grinder monthly earnings         | ≈ $1,400–$1,900 USD/month                        |
+| Gross pot per ranked match           | 2,000 $GBTZ                                      |
+| Winner payout                        | 1,500 $GBTZ ≈ $1.50 USD at launch                |
+| Loser payout                         | 667 $GBTZ ≈ $0.67 USD at launch                  |
+| Daily budget (max usage)            | 177,760,000 $GBTZ (≈177% of reward pool)        |
+| Lifetime without buybacks            | 0.56 days at max usage                           |
+| Lifetime with 50% rake + cushion     | Self-sustaining with proper game limits           |
+| Top grinder monthly earnings         | ≈ $300–$600 USD/month (depending on win rate)    |
+| Minimum earnings (lose all games)    | ≈ $200 USD/month                                 |
+
+**Key Insight:** The system requires **strict game limits (10/day/NFT)** to remain sustainable, but provides **meaningful income even for losing players** while maintaining **generous rewards for skilled players**.
 
 Players earn **real money every single game**, even when they lose, while the tokenomics remain **sustainable and structurally deflationary** thanks to continuous buybacks and capped match volumes.
 
@@ -253,8 +268,8 @@ Players earn **real money every single game**, even when they lose, while the to
 
 **Capped Match Output**:
 - Maximum **10 ranked P2E matches per NFT per day**.  
-- Hard cap of **50,000 matches/day** with 5,000 NFTs.  
-- Keeps maximum daily token outflow from the reward pool strictly bounded.
+- Hard cap of **88,880 matches/day** with 8,888 NFTs.  
+- Keeps maximum daily token outflow from the reward pool strictly bounded and sustainable with buybacks.
 
 **Dynamic Reward Tuning**:
 - Match payouts (pot size) can be adjusted via governance based on:  
@@ -269,8 +284,9 @@ Players earn **real money every single game**, even when they lose, while the to
 
 ### Phase 1: Fair Launch
 - **No VC pre-sale, no team allocation** – all tokens begin in the public DEX liquidity pool.  
-- $300k of liquidity is added to the pool at launch.  
-- A separate $300k buy order acquires ~33% of supply for the reward pool.  
+- $100k of liquidity is added to the pool at launch.  
+- A separate $100k buy order acquires 10% of supply for the reward pool.  
+- $200k platform cushion supports sustainable buybacks.  
 - Anti-bot measures on the platform side (match limits, anti-cheat, NFT gating).
 
 ### Phase 2: Liquidity
