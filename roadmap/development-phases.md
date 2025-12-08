@@ -16,7 +16,7 @@ Establish the Chess3 brand and community foundation
 ### Key Deliverables
 
 ✅ **NFT Collection**
-- 5,000 Chessalienz: Pawnz NFTs
+- 8,888 Chessalienz: Pawnz NFTs
 - 21 unique character roles
 - Metaplex Candy Machine deployment
 - Fair launch mint
